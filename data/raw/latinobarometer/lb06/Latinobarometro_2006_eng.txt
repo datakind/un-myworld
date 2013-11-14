@@ -1,0 +1,2690 @@
+CIUDAD.- City
+City
+0 No data
+CODIF.- Coding
+Coding
+0 No data
+CODIGO.- Code interviewer
+Code interviewer
+0 No data
+CODSUPER.- Code supervisor
+Code supervisor
+0 No data / Not supervised
+COMDIST.- Commune/district
+Commune/district
+DIAREAL.- Day achievement of the interview
+Day achievement of the interview
+0 No data
+11
+22
+33
+44
+55
+66
+77
+88
+99
+10 10
+11 11
+12 12
+13 13
+14 14
+
+15 15
+16 16
+17 17
+18 18
+19 19
+20 20
+21 21
+22 22
+23 23
+24 24
+25 25
+26 26
+27 27
+28 28
+29 29
+30 30
+31 31
+DIGIT.- Code data analyst
+Code data analyst
+0 No data
+DURA.- Length interview
+Length interview
+0 No data
+FIN.- Time finished
+Time finished
+0 No data
+IDENPA.- Country
+Country
+1 Argentina
+2 Bolivia
+3 Brazil
+4 Colombia
+5 Costa Rica
+6 Chile
+7 Ecuador
+8 El Salvador
+9 Guatemala
+10 Honduras
+11 Mexico
+12 Nicaragua
+13 Panama
+14 Paraguay
+
+15 Peru
+16 Uruguay
+17 Venezuela
+19 Dominican Republic
+
+INI.- Time beginning of the interview
+Time beginning of the interview
+0 No data
+MESREAL.- Month achievement of the interview
+Month achievement of the interview
+0 No data
+1 January
+2 February
+3 March
+4 April
+5 May
+6 June
+7 July
+8 August
+9 September
+10 October
+11 November
+12 December
+NUMCASA.- Number different houses contacted by interview
+Number different houses contacted by interview
+0 No data
+NUMENTRE.- Number interview
+Number interview
+0 No data
+NUMINVES.- Year Research
+Year Research
+11 2006
+P10ST.- Most important problem: 2004-2006
+What do you consider to be the most important problem in the country? 2004-2006
+0 No answer
+1 Low Salaries
+2 Transport
+3 Terrorism/political violence/guerrilla
+
+4 Instability in employment / Immigration
+5 Education problems
+6 Inflation/ price rises / Economic Crisis
+7 Unemployment
+8 Lack of opportunities for youth
+9 Violation of Human rights
+10 Housing Problems
+11 Health Problems
+12 Environment problems
+13 Corruption
+14 Drug trafficking
+15 Crime /Public Security
+16 Poverty / Social Inequality
+17 Drugs consumption /addiction
+18 Racial Discrimination
+19 Border conflicts
+20 Problems with neighbor countries
+21 Gaz, fuel
+22 Political Crisis
+23 Gaz problem with Argentina
+24 Distribution of income, social injustice
+25 Economy/economical problems/financial
+26 Deficient basic services (water, electricity, ...)
+96 Others
+97 No problem
+98 Don’t know
+P11ST.- How long do you think it will take (country) to be developed country?
+How long do you think it will take (country) to be a developed country?
+0 Don’t know/No answer
+1 Less than 5 years
+2 5 to 10 years
+3 10 to 20 years
+4 20 to 30 years
+5 More than 30 years
+6 (Country) will never be a developed country
+7 (Country) already is a developed country
+P12N.- A person who is born poor and works hard can become rich
+Do you think that in (country) a person who is born poor and works hard can become
+rich, or do you think it’s not possible to be born poor and become rich?
+0 Don’t know/No answer
+1 Born poor working hard can become rich
+2 Born poor can never get rich
+P13ST.A.- Scale poor-rich in the present
+Imagine a staircase with 10 steps, in which on the first step are located the poorest and
+on the 10th step, the richest. Where would you put yourself on this staircase?
+
+0 No answer
+1 1.Very poor
+22
+33
+44
+55
+66
+77
+88
+99
+10 10.Very rich
+97 None
+98 Don’t know
+P13ST.B.- Scale poor-rich in the past
+Imagine a staircase with 10 steps, in which on the first step are located the poorest and
+on the 10th step, the richest. Where would you put your parents on this staircase?
+0 No answer
+1 1.Very poor
+22
+33
+44
+55
+66
+77
+88
+99
+10 10.Very rich
+97 None
+98 Don’t know
+P13ST.C.- Scale poor-rich in the future
+Imagine a staircase with 10 steps, in which on the first step are located the poorest and
+on the 10th step, the richest. Where do you think your children will be on this staircase?
+0 No answer
+1 1.Very poor
+22
+33
+44
+55
+66
+77
+88
+99
+10 10.Very rich
+97 None
+98 Don’t know
+
+P14ST.- Equal opportunities to exit poverty
+There are different opinions about equal opportunities in (country). Some people say
+that the economic system in (country) enables all (nationality) to have equal
+opportunities to exit poverty; other people say that not every (nationality) has equal
+opportunities to exit poverty. Which of these opinions is closer to your way of thinking?
+0 No answer
+1 To have equal opportunities
+2 Don’t have equal opportunities
+8 Don’t know
+P15ST.- Government/People should take responsibility for their welfare
+On a scale from 1 to 10, where 1 means that each person should take responsibility for
+his own welfare, and 10 means that the government should take responsibility for the
+welfare of people, where would you put yourself?
+0 No answer
+1 1. Each person should take responsibility for his own welfare
+22
+33
+44
+55
+66
+77
+88
+99
+10 10. The government should take responsibility for the welfare
+97 None
+98 Don’t know
+P16N.- Scale state V/S private enterprise has to create wealth
+Who do you think has to create wealth in our society, the state or private enterprises?.
+Who do you think has to create wealth in our society, the state or private enterprises?
+On the same scale of 1 to 10, where 1 means that “the state has to produce wealth” and
+10 that “private enterprises have to produce wealth”, where would you put your
+opinion?
+0 No answer
+1 State has to produce wealth
+2 02
+3 03
+4 04
+5 05
+6 06
+7 07
+8 08
+9 09
+10 Private firm has to produce wealth
+97 None
+98 Don’t know
+
+P17ST.- Support for democracy
+Which of the following statements do you agree with most?
+0 No answer
+1 Democracy is preferable to any other kind of government
+2 Under some circumstances, an authoritarian government can be preferable to a
+democratic one
+3 For people like me, it does not matter whether we have a democratic or a nondemocratic regime
+8 Don’t know
+P18ST.- Scale of democracy development
+Scale to rate how democratic the country is. This is a scale to rate how democratic
+[country] is. The top, 10, means that [country] is totally democratic, the bottom, 1,
+means that [country] is not democratic. Where would you place [country]?
+0 Don’t know
+1 1. Not democratic
+22
+33
+44
+55
+66
+77
+88
+99
+10 10. Totally democratic
+98 No answer
+99 Other answers
+P19ST.- Confidence in democracy as a government system with which (country)
+can become a developed country
+Please look at this card and tell me how much confidence you have in…? Democracy as
+a governmental system with which (country) can become a developed country.
+0 Don’t know/No answer
+1 Much
+2 Some
+3 A little
+4 No confidence
+P1ST.A.- Satisfaction with life
+In general, would you say that you are satisfied with your life? Would you say that you
+are …
+0 Don’t know/No answer
+1 Very satisfied
+2 Fairly satisfied
+3 Not very satisfied
+4 Not at all satisfied
+
+P1ST.B.- General future expectation
+Now that this year is coming to an end, do you look ahead to the next year with hope or
+with concern?
+0 Don’t know/No answer
+1 With hope
+2 With concern
+P20STM.- Country governed for the benefit of the powerful
+In general, would you say that the country is governed for the benefit of a few powerful
+groups or is it governed for the good of everyone?
+0 Don’t know/No answer
+1 Powerful groups in own benefit
+2 For the good of everyone
+P21ST.- Satisfaction with democracy
+In general, would you say that you are very satisfied, fairly satisfied, not very satisfied
+or not at all satisfied with the way democracy works in [nation]?
+0 No answer
+1 Very satisfied
+2 Fairly satisfied
+3 Not very satisfied
+4 Not at all satisfied
+8 Don’t know
+P22NA.C.- Democracy gives conditions to proper
+. Do you strongly agree, agree, disagree or strongly disagree with the following
+statements? Democracy creates the conditions in which people like me can prosper
+through their own efforts
+0 Don’t know/No answer
+1 Strongly agree
+2 Agree
+3 Disagree
+4 Strongly disagree
+P22NA.D.- Do the right thing no matter what
+Do you strongly agree, agree, disagree or strongly disagree with the following
+statements? Sometimes one has to do what one believes correct without worrying about
+the opinion of others.
+0 Don’t know/No answer
+1 Strongly agree
+2 Agree
+3 Disagree
+4 Strongly disagree
+
+P22NA.E.- People should be prepared to sacrifice their personal interest for the
+best of the country
+Do you strongly agree, agree, disagree or strongly disagree with the following
+statements: For the good of the country, people should be prepared to sacrifice his/her
+personal interest.
+0 Don’t know/No answer
+1 Strongly agree
+2 Agree
+3 Disagree
+4 Strongly disagree
+P22NA.F.- Natural resources explotation
+Do you strongly agree, agree, disagree or strongly disagree with the following
+statements? All the natural resources necessary for development today should be
+exploited without worrying about using them up for future generations.
+0 Don’t know/No answer
+1 Strongly agree
+2 Agree
+3 Disagree
+4 Strongly disagree
+P22NA.G.- If people really want a job, they can find one
+Do you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with
+each of the following phrases that I am going to read: If people really want a job, then
+they can usually find one.
+0 No answer
+1 Strongly agree
+2 Somewhat agree
+3 Somewhat disagree
+4 Strongly disagree
+8 Don’t know
+P22ST.A.- Democracy may have problems but it is still the best form of
+government: Churchill's quote
+Do you strongly agree, agree, disagree or strongly disagree with the following
+statements: Democracy may have problems but it is the best system of government.
+0 Don’t know/No answer
+1 Strongly agree
+2 Agree
+3 Disagree
+4 Strongly disagree
+P22ST.B.- The government seeks the welfare of the people
+Do you strong agree, agree, disagree, or strongly disagree with the following statements
+I am going to read? With its decisions, the government seeks the welfare of the people.
+
+0 Don’t know/No answer
+1 Strongly agree
+2 Agree
+3 Disagree
+4 Strongly disagree
+P23N.- How do you think breaking the law is viewed in (country)?
+. How do you think breaking the law is viewed in (country)? Breaking the law in
+(country) is ….
+0 Don’t know/No answer
+1 Very serious
+2 Serious
+3 Somewhat serious
+4 Not serious at all
+P24ST.A.- Confidence in the judiciary
+Please look at this card and tell me how much confidence you have in each of the
+following groups, institutions or persons mentioned on the list: a lot, some, a little or no
+confidence?
+0 Don’t know/No answer
+1 Have a lot
+2 Some
+3 A little
+4 No confidence
+8 Don’t know
+P24ST.B.- Confidence in president
+Please look at this card and tell me how much confidence you have in each of the
+following groups, institutions or persons mentioned on the list: a lot, some, a little or no
+confidence?
+0 Don’t know/No answer
+1 Have a lot
+2 Some
+3 A little
+4 No confidence
+8 Don’t know
+P24ST.C.- Confidence in political parties
+Please look at this card and tell me how much confidence you have in each of the
+following groups, institutions or persons mentioned on the list: a lot, some, a little or no
+confidence?
+0 Don’t know/No answer
+1 Have a lot
+2 Some
+3 A little
+
+4 No confidence
+8 Don’t know
+P24ST.D.- Confidence in police
+Please look at this card and tell me how much confidence you have in each of the
+following groups, institutions or persons mentioned on the list: a lot, some, a little or no
+confidence?
+0 Don’t know/No answer
+1 Have a lot
+2 Some
+3 A little
+4 No confidence
+8 Don’t know
+P24ST.E.- Confidence in neighbors
+Please look at this card and tell me how much confidence you have in each of the
+following groups, institutions or persons mentioned on the list: a lot, some, a little or no
+confidence?
+0 Don’t know/No answer
+1 Have a lot
+2 Some
+3 A little
+4 No confidence
+8 Don’t know
+P24ST.F.- Confidence in National Congress / Parliament
+Please look at this card and tell me how much confidence you have in each of the
+following groups, institutions or persons mentioned on the list: a lot, some, a little or no
+confidence?
+0 Don’t know/No answer
+1 Have a lot
+2 Some
+3 A little
+4 No confidence
+8 Don’t know
+P25ST.- Without political parties there can be no democracy
+There are people who say that without political parties there can be no democracy,
+while others say that democracy can work without parties. What is closer to your views?
+0 No answer
+1 Without political parties there can be no democracy
+2 Democracy can work without political parties
+8 Don’t know
+P26ST.- Without a National Congress there can be no Democracy
+There are people who say that without a national congress there can be no democracy,
+
+while others say that democracy can work without a National Congress. What is closer
+to your way of thinking?
+0 No answer
+1 Without a national congress there can be no democracy
+2 Democracy can work without a national congress
+8 Don’t know
+P27N.- Privilege / discrimination
+In this country, there are three main groups of people: people who for some reason
+generally have privileges, people who are neither discriminated against nor have
+privileges, and people who for some reason are generally discriminated against. To
+which group do you think you belong, or do you not belong to any of them?
+0 Don’t know/No answer
+1 Persons that have privileges for some reason
+2 Persons that aren’t discriminated and have no privileges
+3 Persons that are discriminated for any reason
+4 None of these
+P28NF.- Questioning the leaders /authority
+Which of the following statements is closest to your view? Choose statement
+A. We should be more active in questioning the actions of our leaders.
+B. As citizens, we should show more respect for authority.
+0 No answer
+1 Agree strongly with A
+2 Agree with A
+3 Agree with B
+4 Agree strongly with B
+7 None
+8 Don’t know
+P29NF.- Respect of Legality
+. And which of the following two statements is closest to your view? Choose statement
+A or B.
+A. It is better to find legal solutions to problems even if it takes longer.
+B. It is sometimes better to ignore the law to solve problems immediately.
+0 No answer
+1 Agree strongly with A
+2 Agree with A
+3 Agree with B
+4 Agree strongly with B
+7 None
+8 Don’t know
+
+P2ST.- Current economic situation of the country
+In general, how would you describe the present economic situation of the country?
+Would you say that it is ...?
+0 No answer
+1 Very good
+2 Good
+3 About average
+4 Bad
+5 Very bad
+8 Don’t know
+P30ST.- Order v/s freedom
+Do you believe that it is better to live in an orderly society where certain freedoms are
+limited, or do you believe it is better to live in a society where all rights and freedoms
+are respected, although there may be less order as a result?
+0 No answer
+1 I prefer to live in an orderly society although some freedoms
+2 I prefer to live in a society where all rights are respected,
+8 Don’t know
+P31STM.- Satisfaction with the functioning of the market economy in (country)
+In general, would you say you are very satisfied, somewhat satisfied, not very satisfied,
+or not at all satisfied with the functioning of the market economy in (country)?
+0 No answer
+1 Very satisfied
+2 Fairly satisfied
+3 Not very satisfied
+4 Not at all satisfied
+8 Don’t know
+P32ST.A.- Confidence in the government
+Please look at this card and tell me how much confidence you have in each of the
+following groups, institutions or persons mentioned on the list: a lot, some, a little or no
+confidence?
+0 Don’t know/No answer
+1 Have a lot
+2 Some
+3 A little
+4 No confidence
+8 Don’t know
+P32ST.B.- Confidence in private enterprises
+Please look at this card and tell me how much confidence you have in each of the
+following groups, institutions or persons mentioned on the list: a lot, some, a little or no
+confidence?
+
+0 Don’t know/No answer
+1 Have a lot
+2 Some
+3 A little
+4 No confidence
+8 Don’t know
+P32ST.C.- Confidence in newspapers
+Please look at this card and tell me how much confidence you have in each of the
+following groups, institutions or persons mentioned on the list: a lot, some, a little or no
+confidence?
+0 Don’t know/No answer
+1 Have a lot
+2 Some
+3 A little
+4 No confidence
+8 Don’t know
+P32ST.D.- Confidence in church
+Please look at this card and tell me how much confidence you have in each of the
+following groups, institutions or persons mentioned on the list: a lot, some, a little or no
+confidence?
+0 Don’t know/No answer
+1 Have a lot
+2 Some
+3 A little
+4 No confidence
+8 Don’t know
+P32ST.E.- Confidence in the armed forces
+Please look at this card and tell me how much confidence you have in each of the
+following groups, institutions or persons mentioned on the list: a lot, some, a little or no
+confidence?
+0 Don’t know/No answer
+1 Have a lot
+2 Some
+3 A little
+4 No confidence
+8 Don’t know
+9 Not applicable
+P33ST.- Progress on reducing corruption in state institutions (2 years)
+How much progress do you think has been made on reducing corruption in the State
+institutions during the last 2 years?
+0 No answer
+1 Much
+
+2 Some
+3 Little
+4 No progress at all
+8 Don’t know
+P34N.A.- Evaluation: Parliament /congress
+How do you rate the work being done by the Parliament/National Congress?
+0 No answer
+1 Very good
+2 Good
+3 Bad
+4 Very bad
+8 Don’t know
+P34N.B.- Evaluation: Political parties
+How do you rate the work being done by the Political Parties?
+0 No answer
+1 Very good
+2 Good
+3 Bad
+4 Very bad
+8 Don’t know
+P34N.C.- Evaluation: Judiciary
+How do you rate the work being done by the Judiciary?
+0 No answer
+1 Very good
+2 Good
+3 Bad
+4 Very bad
+8 Don’t know
+P34N.D.- Evaluation: Businessmen
+How do you rate the work being done by the Businessmen?
+0 No answer
+1 Very good
+2 Good
+3 Bad
+4 Very bad
+8 Don’t know
+P35ST.A.- Confidence in firemen
+Please look at this card and tell me how much confidence you have in each of the
+following groups, institutions or persons mentioned on the list: a lot, some, a little or no
+confidence?
+
+0 Don’t know/No answer
+1 Have a lot
+2 Some
+3 A little
+4 No confidence
+8 Don’t know
+P35ST.B.- Confidence in radios
+Please look at this card and tell me how much confidence you have in each of the
+following groups, institutions or persons mentioned on the list: a lot, some, a little or no
+confidence?
+0 Don’t know/No answer
+1 Have a lot
+2 Some
+3 A little
+4 No confidence
+8 Don’t know
+P35ST.C.- Confidence in television
+Please look at this card and tell me how much confidence you have in each of the
+following groups, institutions or persons mentioned on the list: a lot, some, a little or no
+confidence?
+0 Don’t know/No answer
+1 Have a lot
+2 Some
+3 A little
+4 No confidence
+8 Don’t know
+P35ST.D.- Confidence in National Electoral Commission
+Please look at this card and tell me how much confidence you have in each of the
+following groups, institutions or persons mentioned on the list: a lot, some, a little or no
+confidence?
+0 No answer
+1 Much confidence
+2 Some confidence
+3 Little confidence
+4 No confidence at all
+8 Don’t know
+P36ST.1.- Who has the most power?: First mention
+Who has the most power? Who do you think has the most power in [nation]? Name up
+to three (First mention)
+0 The Respondent only gives 1 or 2 mentions
+1 Large companies
+2 The military
+
+3 The trade unions
+4 The mass media
+5 The banks
+6 Political parties
+7 The Government
+8 Parliament/Congress
+9 The judiciary
+10 The transnational companies
+11 Warfare
+12 Medium-sized companies
+99 Don’t know/No answer
+P36ST.2.- Who has the most power?: Second mention
+Who has the most power? Who do you think has the most power in [nation]? Name up
+to three (Second mention)
+0 The Respondent only gives 1 mention
+1 Large companies
+2 The military
+3 The trade unions
+4 The mass media
+5 The banks
+6 Political parties
+7 The Government
+8 Parliament/Congress
+9 The judiciary
+10 The transnational companies
+11 Warfare
+12 Medium-sized companies
+99 Don’t know/No answer
+P36ST.3.- Who has the most power?: Third mention
+Who has the most power? Who do you think has the most power in [nation]? Name up
+to three (Third mention)
+0 The Respondent only gives 1 or 2 mentions
+1 Large companies
+2 The military
+3 The trade unions
+4 The mass media
+5 The banks
+6 Political parties
+7 The Government
+8 Parliament/Congress
+9 The judiciary
+10 The transnational companies
+11 Warfare
+12 Medium-sized companies
+99 Don’t know/No answer
+
+P37ST.AA.- Frequency that you talk politics
+How frequently do you do each of the following things?
+0 No answer
+1 Very Frequently
+2 Frequently
+3 Almost never
+4 Never
+8 Don’t know
+P37ST.AB.- Frequency that you try to convince politically
+How frequently do you do each of the following things?
+0 No answer
+1 Very Frequently
+2 Frequently
+3 Almost never
+4 Never
+8 Don’t know
+P37ST.AC.- Frequency that you work for a political party or candidate
+How frequently do you do each of the following things? Work for a political party or
+candidate.
+0 No answer
+1 Very Frequently
+2 Frequently
+3 Almost never
+4 Never
+8 Don’t know
+P37ST.BA.- Political action: Signing a petition
+I am going to read out a variety of political activities which people may engage in. I
+would like you to tell me, for each one, if you have ever done any of them, if you would
+ever do any of them, or if you would never do any of them.?
+Signing a petition
+0 Don’t know/No answer
+1 Have done
+2 Could do
+3 Would never do
+P37ST.BB.- Political action: Taking part in authorized demonstrations
+I am going to read out a variety of political activities. I would like you to tell me, for
+each one, if you have ever done any of them, if you would ever do any of them, or if
+you would never do any of them?
+Taking part in authorized demonstrations.
+0 Don’t know/No answer
+1 Have done
+
+2 Could do
+3 Would never do
+8 Don’t know
+P38ST.- For which party would you vote this Sunday?
+If this Sunday there were elections, for which party would you vote?
+0 No answer
+97 Other
+98 Don’t know
+99 None
+P39ST.- Clean or rigged elections
+Generally speaking, do you think that the elections in this country are clean or rigged?
+0 No answer
+1 Are Clean
+2 Are Rigged
+8 Don’t know
+P3ST.- Past economic situation of the country
+Do you consider the current economic situation of the country to be better, the same, or
+worse than 12 months ago?
+Note: Starting in 2001, the option "almost the same" has been used as alternative 3.
+0 No answer
+1 Much better
+2 A little better
+3 About the same
+4 A little worse
+5 Much worse
+8 Don’t know
+P40NF.- Did you vote in the last election?
+Did you vote in the last election? In the last election, which of the following did you
+do?
+0 No answer
+1 I voted in last election
+2 I decided not to vote
+3 Was stopped from voting in the last election
+4 Didn’t have time to vote
+5 Didn’t vote for other reasons
+6 Wasn’t registered to vote
+8 Don’t remember what I did/Don’t know
+P41N.- What is the most effective way in which you can contribute to change
+things?
+What is the most effective way in which you can contribute to change things: vote to
+
+elect people who defend my position, participate in protest movements and demand
+change directly, or do you think that it’s not possible to contribute to change things?
+0 Don’t know/No answer
+1 Vote to choose those who defend my position
+2 Participate in protest movements to demand changes
+3 It is not possible to contribute to change things
+4 None of the above
+P42ST.- Bribery in presidential elections (other people)
+Have you known of someone in the last elections who was pressured or received
+something to change his vote in a certain way?
+0 Don’t know/No answer
+1 Yes
+2 No
+P43ST.- Do you approve or disapprove of the way the President is running the
+country
+Do you approve or disapprove the way the President (NAME OF PRESIDENT) is
+running the country?
+0 Don’t know/No answer
+1 Approve
+2 Disapprove
+P44N.A.- Is correct that a government official gives work to a relative
+For each of the following things, is it correct that: A government official gives work to a
+relative
+0 Don’t know/No answer
+1 Correct
+2 Incorrect but understandable
+3 Incorrect and must be punished
+P44N.B.- Is correct that a government official favors those who support the
+government
+For each of the following things, is it correct that: A government official favors those
+who support the government
+0 Don’t know/No answer
+1 Correct
+2 Incorrect but understandable
+3 Incorrect and must be punished
+P44N.C.- Is correct that a government official hires only people from its party
+For each of the following things, is it correct that: The government hires only people
+from its party(ies)
+
+0 Don’t know/No answer
+1 Correct
+2 Incorrect but understandable
+3 Incorrect and must be punished
+P45ST.- Interpersonal Trust
+Generally speaking, would you say that you can trust most people, or that you can never
+be too careful when dealing with others.
+0 Don’t know/No answer
+1 You can trust most people
+2 You can never be too careful when dealing with others
+P46STM.- Reasons why people are not treated equally
+Reasons because people are not treated equally. Of all of the reasons for which people
+in this country are not treated equally, which one affects you the most?
+0 No answer
+1 For being youth
+2 For being old
+3 For being woman
+4 For being a man
+5 For skin color
+6 For being Immigrant
+7 For being homosexual
+8 For religion
+9 For being poor
+10 For being handicapped
+11 For not having enough education
+12 For not having connections
+13 For not being anyone
+14 (Country) treats all equally
+15 Not discriminated by anybody
+
+P47ST.- Self-positioning in Left- Right scale
+In politics, people normally speak of "left" and "right". On a scale where 0 is left and 10
+is right, where would you place yourself?
+0 0. Left
+11
+22
+33
+44
+55
+66
+77
+88
+99
+10 10. Right
+
+96 None
+97 No answer
+98 Don’t know
+P48N.- The image of (country) abroad
+The image of (country) abroad. How would you describe the image of (country) abroad?
+How would you describe the image of (country) abroad?
+0 Don’t know/No answer
+1 Very good
+2 Good
+3 Fair
+4 Bad
+5 Very bad
+P49N.C.- Least friendly
+And which country do you think is the least friendly of (country)?
+0 Don’t know/No answer
+1 Argentina
+2 Bolivia
+3 Brazil
+4 Colombia
+5 Costa Rica
+6 Chile
+7 Ecuador
+8 El Salvador
+9 Guatemala
+10 Honduras
+11 Mexico
+12 Nicaragua
+13 Panama
+14 Paraguay
+15 Peru
+16 Uruguay
+17 Venezuela
+18 Cuba
+19 Haiti
+20 Jamaica
+21 Puerto Rico
+22 Dominican Republic
+23 Canada
+24 USA
+25 Germany
+27 Belgium
+29 Spain
+31 France
+32 Greece
+33 Italy
+34 Luxemburg
+
+35 Norway
+36 Portugal
+37 United Kingdom
+38 Russia
+39 Sweden
+40 Switzerland
+41 Nigeria
+43 Australia
+44 New Zealand
+45 China
+46 India
+48 Iran
+49 Iraq
+50 Israel
+51 Japan
+52 Korea
+55 Saudi Arabia
+58 Taiwan
+96 Other answer
+97 None
+98 Don’t know
+P49ST.A.- Latin American best friend country
+Which country do you think is our best friend in Latin America?
+0 Don’t know/No answer
+1 Argentina
+2 Bolivia
+3 Brazil
+4 Colombia
+5 Costa Rica
+6 Chile
+7 Ecuador
+8 El Salvador
+9 Guatemala
+10 Honduras
+11 Mexico
+12 Nicaragua
+13 Panama
+14 Paraguay
+15 Peru
+16 Uruguay
+17 Venezuela
+18 Cuba
+19 Haiti
+20 Jamaica
+21 Puerto Rico
+22 Dominican Republic
+23 Canada
+24 USA
+
+25 Germany
+26 Austria
+27 Belgium
+28 Denmark
+29 Spain
+30 Finland
+31 France
+32 Greece
+33 Italy
+34 Luxemburg
+35 Norway
+36 Portugal
+37 United Kingdom
+38 Russia
+39 Sweden
+40 Switzerland
+41 Nigeria
+42 South Africa
+43 Australia
+44 New Zealand
+45 China
+46 India
+47 Indonesia
+48 Iran
+49 Iraq
+50 Israel
+51 Japan
+52 Korea
+53 Malaysia
+54 Philippines
+55 Saudi Arabia
+56 Singapore
+57 Syria
+58 Taiwan
+59 Turkey
+96 Other answer
+97 None
+98 Don’t know / No answer
+99 None
+P49ST.B.- Best friend country in the world
+And which country do you think is our best friend in the world in general?
+0 Don’t know/No answer
+1 Argentina
+2 Bolivia
+3 Brazil
+4 Colombia
+5 Costa Rica
+6 Chile
+
+7 Ecuador
+8 El Salvador
+9 Guatemala
+10 Honduras
+11 Mexico
+12 Nicaragua
+13 Panama
+14 Paraguay
+15 Peru
+16 Uruguay
+17 Venezuela
+18 Cuba
+19 Haiti
+20 Jamaica
+21 Puerto Rico
+22 Dominican Republic
+23 Canada
+24 USA
+25 Germany
+26 Austria
+27 Belgium
+28 Denmark
+29 Spain
+30 Finland
+31 France
+32 Greece
+33 Italy
+34 Luxemburg
+35 Norway
+36 Portugal
+37 United Kingdom
+38 Russia
+39 Sweden
+40 Switzerland
+41 Nigeria
+42 South Africa
+43 Australia
+44 New Zealand
+45 China
+46 India
+47 Indonesia
+48 Iran
+49 Iraq
+50 Israel
+51 Japan
+52 Korea
+53 Malaysia
+54 Philippines
+55 Saudi Arabia
+56 Singapore
+
+57 Syria
+58 Taiwan
+59 Turkey
+96 Other answer
+97 None
+98 Don’t know / No answer
+99 None
+P4ST.- Future economic situation of the country
+And in the next 12 months do you think that, in general, the economic situation of your
+country will improve, stay the same or get worse compared to the way it is now?
+Note: Starting in 2001, the option "almost the same" has been used as alternative 3.
+0 No answer
+1 Much better
+2 A little better
+3 About the same
+4 A little worse
+5 Much worse
+8 Don’t know
+P50ST.- Country that you prefer as foreign investor
+Which country in the world do you prefer as a foreign investor? (open-ended)
+0 No answer
+1 Argentina
+2 Bolivia
+3 Brazil
+4 Colombia
+5 Costa Rica
+6 Chile
+7 Ecuador
+8 El Salvador
+9 Guatemala
+10 Honduras
+11 Mexico
+12 Nicaragua
+13 Panama
+14 Paraguay
+15 Peru
+16 Uruguay
+17 Venezuela
+18 Cuba
+19 Haiti
+20 Jamaica
+21 Puerto Rico
+22 Dominican Republic
+23 Canada
+24 USA
+
+25 Germany
+26 Austria
+27 Belgium
+28 Denmark
+29 Spain
+30 Finland
+31 France
+32 Greece
+33 Italy
+34 Luxembourg
+35 Norway
+36 Portugal
+37 United Kingdom
+38 Russia
+39 Sweden
+40 Switzerland
+42 South Africa
+43 Australia
+44 New Zealand
+45 China
+46 India
+47 Indonesia
+48 Iran
+49 Iraq
+50 Israel
+51 Japan
+52 Korea
+54 Philippines
+55 Saudi Arabia
+56 Singapore
+58 Taiwan
+95 Other answer
+96 All
+97 None
+98 Don’t know
+P51N.- Latin American country preferred to have an economic integration
+agreement
+With which Latin American country would you prefer to have an economic integration
+agreement or do you think they should exist with all Latin American countries? Or do
+you have insufficient information to answer?
+0 No answer
+1 Argentina
+2 Bolivia
+3 Brazil
+4 Colombia
+5 Costa Rica
+6 Chile
+7 Ecuador
+
+8 El Salvador
+9 Guatemala
+10 Honduras
+11 Mexico
+12 Nicaragua
+13 Panama
+14 Paraguay
+15 Peru
+16 Uruguay
+17 Venezuela
+18 Cuba
+19 Haiti
+20 Jamaica
+21 Puerto Rico
+22 Dominican Republic
+95 Other answer
+96 All
+97 None
+98 Don’t know
+P52N.- Relations between country and the rest of the countries of Latin American
+general, how would you describe the relations of (country) with the other Latin
+American countries?
+0 No answer
+1 Very good
+2 Rather good
+3 Rather bad
+4 Very bad
+8 Don’t know
+P53ST.A.- Opinion of the Unites States
+Do you have a very good, good, bad or very bad opinion of the United States?
+Note: Change of scale
+0 No answer
+1 Very good
+2 Good
+3 Bad
+4 Very bad
+8 Don’t know
+P53ST.B.- Opinion of the UE
+Do you have a very good, good, bad or very bad opinion of the U.E.?
+Note: Change of scale.
+0 No answer
+1 Very good
+
+2 Good
+3 Bad
+4 Very bad
+8 Don’t know
+9 Not applicable
+P53ST.C.- Opinion of Japan
+Do you have a very good, good, bad or very bad opinion of Japan?
+Note: Change of scale.
+0 No answer
+1 Very good
+2 Good
+3 Bad
+4 Very bad
+8 Don’t know
+P53ST.D.- Opinion of China
+Do you have a very good, good, bad or very bad opinion of China?
+0 No answer
+1 Very good
+2 Good
+3 Bad
+4 Very bad
+8 Don’t know
+P53ST.E.- Opinion of Spain
+Do you have a very good, good, bad or very bad opinion of Spain?
+0 No answer
+1 Very good
+2 Good
+3 Bad
+4 Very bad
+8 Don’t know
+P53ST.F.- Opinion about Cuba
+Do you have a very good, good, bad or very bad opinion of Cuba?
+0 No answer
+1 Very good
+2 Good
+4 Bad
+5 Very Bad
+8 Don’t know
+P54STE10.- Leaders which you admire: George W. Bush
+Leaders which you admire. I am going to list a number of leaders of foreign countries. I
+
+want you to evaluate them on a scale from 0 to 10, in which 0 means "very bad" and 10
+is very good, or do you not know the person well enough to respond? George W. Bush.
+0 Very bad
+11
+22
+33
+44
+55
+66
+77
+88
+99
+10 Very good
+96 Not know person
+97 No answer
+98 Don’t know
+P54STE11.- Leaders which you admire: José L. Rodriguez Zapatero
+Leaders which you admire. I am going to list a number of leaders of foreign countries. I
+want you to evaluate them on a scale from 0 to 10, in which 0 means "very bad" and 10
+is very good, or do you not know the person well enough to respond? Jose L. Rodriguez
+Zapatero
+0 Very bad
+11
+22
+33
+44
+55
+66
+77
+88
+99
+10 Very good
+96 Not know person
+97 No answer
+98 Don’t know
+P54STE12.- Leaders which you admire: Rey Juan Carlos I de España
+Leaders which you admire. I am going to list a number of leaders of foreign countries. I
+want you to evaluate them on a scale from 0 to 10, in which 0 means "very bad" and 10
+is very good, or do you not know the person well enough to respond? King Juan Carlos
+I of Spain.
+0 Very bad
+11
+22
+33
+44
+
+55
+66
+77
+88
+99
+10 Very good
+96 Not know person
+97 No answer
+98 Don’t know
+P54STEL1.- Leaders which you admire: Alvaro Uribe
+Leaders which you admire. I am going to list a number of leaders of foreign countries. I
+want you to evaluate them on a scale from 0 to 10, in which 0 means "very bad" and 10
+is very good, or do you not know the person well enough to respond? Alvaro Uribe.
+0 Very bad
+11
+22
+33
+44
+55
+66
+77
+88
+99
+10 Very good
+96 Person not known
+97 No answer
+98 Doesn´t know
+P54STEL2.- Leaders which you admire: Tabaré Vásquez
+Leaders which you admire. I am going to list a number of leaders of foreign countries. I
+want you to evaluate them on a scale from 0 to 10, in which 0 means "very bad" and 10
+is very good, or do you not know the person well enough to respond? Tabaré Vásquez.
+0 Very bad
+11
+22
+33
+44
+55
+66
+77
+88
+99
+10 Very good
+96 Person not known
+97 No answer
+98 Doesn´t know
+
+P54STEL3.- Leaders which you admire: Fidel Castro
+Leaders which you admire. I am going to list a number of leaders of foreign countries. I
+want you to evaluate them on a scale from 0 to 10, in which 0 means "very bad" and 10
+is very good, or do you not know the person well enough to respond? Fidel Castro.
+0 Very bad
+11
+22
+33
+44
+55
+66
+77
+88
+99
+10 Very good
+96 Not know person
+97 No answer
+98 Don’t know
+P54STEL4.- Leaders which you admire: Luis Inácio Lula da Silva
+Leaders which you admire. I am going to list a number of leaders of foreign countries. I
+want you to evaluate them on a scale from 0 to 10, in which 0 means "very bad" and 10
+is very good, or do you not know the person well enough to respond? Luiz Inácio Lula
+da Silva.
+0 Very bad
+11
+22
+33
+44
+55
+66
+77
+88
+99
+10 Very good
+96 Not know person
+97 No answer
+98 Don’t know
+P54STEL5.- Leaders which you admire: Hugo Chávez
+Leaders which you admire I am going to list a number of leaders of foreign countries. I
+want you to evaluate them on a scale from 0 to 10, in which 0 means "very bad" and 10
+is very good, or do you not know the person well enough to respond? Hugo Chávez.
+0 Very bad
+11
+22
+33
+
+44
+55
+66
+77
+88
+99
+10 Very good
+96 Not know person
+97 No answer
+98 Don’t know
+P54STEL6.- Leaders which you admire: Michelle Bachelet
+Leaders which you admire. I am going to list a number of leaders of foreign countries. I
+want you to evaluate them on a scale from 0 to 10, in which 0 means "very bad" and 10
+is very good, or do you not know the person well enough to respond? Michelle Bachelet.
+0 Very bad
+11
+22
+33
+44
+55
+66
+77
+88
+99
+10 Very good
+96 Person not known
+97 No answer
+98 Doesn´t know
+P54STEL7.- Leaders which you admire: Evo Morales
+Leaders which you admire. I am going to list a number of leaders of foreign countries. I
+want you to evaluate them on a scale from 0 to 10, in which 0 means "very bad" and 10
+is very good, or do you not know the person well enough to respond? Evo Morales.
+0 Very bad
+11
+22
+33
+44
+55
+66
+77
+88
+99
+10 Very good
+96 Person not known
+97 No answer
+98 Doesn´t know
+
+P54STEL8.- Leaders which you admire: Nestor Kirchner
+Leaders which you admire. I am going to list a number of leaders of foreign countries. I
+want you to evaluate them on a scale from 0 to 10, in which 0 means "very bad" and 10
+is very good, or do you not know the person well enough to respond? Nestor Kirchner.
+0 Very bad
+11
+22
+33
+44
+55
+66
+77
+88
+99
+10 Very good
+96 Person not known
+97 No answer
+98 Doesn´t know
+P54STEL9.- Leaders which you admire: Alan García
+Leaders which you admire. I am going to list a number of leaders of foreign countries. I
+want you to evaluate them on a scale from 0 to 10, in which 0 means "very bad" and 10
+is very good, or do you not know the person well enough to respond? Alan García.
+0 Very bad
+11
+22
+33
+44
+55
+66
+77
+88
+99
+10 Very good
+96 Person not known
+97 No answer
+98 Doesn´t know
+P55ST.A.- Relations between country and USA
+How would you describe the relations between [country] and the United States? Would
+you say that they are …
+0 No answer
+1 Very good
+2 Good
+3 Fairly poor
+4 Very poor
+8 Don’t know
+
+P55ST.B.- Relations between country and EU
+How would you describe the relations between [country] and the European Union?
+0 No answer
+1 Very good
+2 Fairly good
+3 Poor
+4 Very poor
+8 Don’t know
+P55ST.C.- Relation between country and Spain
+How would you describe the relations between (country) and Spain?
+0 No answer
+1 Very good
+2 Fairly good
+3 Poor
+4 Very poor
+8 Don’t know
+P56IA.- How much have you heard or read about what Venezuela’s President
+Hugo Chávez?
+How much have you heard or read about what Venezuela’s President Hugo Chávez has
+said or done in relation to our country and other Latin American countries: a lot, quite a
+lot, little, or nothing? Or have you not heard enough to have an opinion?
+0 No answer
+1 A lot
+2 Some
+3 Little
+4 Nothing
+5 Doesn´t know enough to have an opinion
+8 Don’t know
+9 Not applicable
+P57IA.A.- USA Treats (country) with respect
+Do you think the US treats (country) with respect?
+0 No answer
+1 A lot
+2 Some
+3 Little
+4 Nothing
+8 Don’t know
+P57IA.B.- USA interested in resolving the problems of (country)
+Do you think U.S.A. is sincerely interested in resolving the problems of (country)?
+0 No answer
+1 A lot
+
+2 Some
+3 Little
+4 Nothing
+8 Don’t know
+P57IA.C.- USA Promotes democracy
+Do you think U.S.A. promotes democracy?
+0 No answer
+1 A lot
+2 Some
+3 Little
+4 Nothing
+8 Don’t know
+P57IA.D.- USA Helps the development of poor countries
+Do you think U.S.A. helps the development of poor countries?
+0 No answer
+1 A lot
+2 Some
+3 Little
+4 Nothing
+8 Don’t know
+P58IA.- Approve or disapprove of Hugo Chávez
+Approve or disapprove of Hugo Chávez. Do you approve or disapprove of what Hugo
+Chávez has been saying or doing as regards (country)? Would you say that...? Or have
+you not heard enough to have an opinion?
+0 No answer
+1 Approves much
+2 Approves a bit
+3 Disapproves a bit
+4 Disapproves much
+5 Doesn´t know enough to have an opinion
+8 Don’t know
+9 Not applicable
+P59IA.- Approve or disapprove of Hugo Chávez
+Which of the following statements is closest to your way of thinking?. Some people say
+Venezuela’s President Hugo Chávez is trying to help other countries resolve their
+problems, others say that Venezuela’s President Hugo Chávez is trying to increase his
+influence throughout Latin America for his own ends.
+0 No answer
+1 Is tryng to help other countries to solve their problems
+2 Is trying to increment his influence in Latin America
+8 Don’t know
+
+P5ST.- Personal current economic situation
+In general, how would you describe your present economic situation and that of your
+family? Would you say that it is very good, good, about average, bad or very bad?
+0 No answer
+1 Very good
+2 Good
+3 About average
+4 Bad
+5 Very bad
+8 Don’t know
+P65EL.- Benefit of Spanish capital investment
+As far as you know or have heard, the investment of Spaniard capital in (country) has
+been very beneficial, somewhat beneficial, a little beneficial or not at all beneficial or
+has there not been Spaniard capital investment in (country)?
+0 No answer
+1 Very beneficial
+2 Quite beneficial
+3 Not very/Not at ally beneficial
+4 There has not been Spanish capital investment in (country)
+8 Don’t know
+P66EL.A.- Spain In the process of economic integration in Latin America
+Which role can play Spain in each of the following affairs?
+In the process of economic integration in Latin America.
+0 No answer
+1 Very important
+2 Important
+3 Not very important
+4 Not important at all
+8 Don’t know
+P66EL.B.- Spain In the solution of conflicts between (country) and the other
+countries in the region
+Which role can play Spain in each of the following affairs?
+In the solution of conflicts between (country) and the other countries in the region.
+0 No answer
+1 Very important
+2 Important
+3 Not very important
+4 Not important at all
+8 Don’t know
+
+P66EL.C.- Spain In the economic development of (country)
+Which role can play Spain in each of the following affairs?
+In the economic development of (country).
+0 No answer
+1 Very important
+2 Important
+3 Not very important
+4 Not important at all
+8 Don’t know
+P66EL.D.- Spain as a bridge between (country) and the European Union
+Which role can play Spain in each of the following affairs?
+As a bridge between (country) and the European Union.
+0 No answer
+1 Very important
+2 Important
+3 Not very important
+4 Not important at all
+8 Don’t know
+P67ST.A.- Number of days you watch news on television
+How many days during the last week did you watch the news on television?
+0 No answer
+1 1 day
+2 2 days
+3 3 days
+4 4 days
+5 5 days
+6 6 days
+7 7 days
+96 None
+98 Don’t know
+P67ST.B.- Number of days you read news in a news paper
+How many days during the last week did you read the news on news papers?
+0 No answer
+1 1 day
+2 2 days
+3 3 days
+4 4 days
+5 5 days
+6 6 days
+7 7 days
+
+96 None
+98 Don’t know
+P67ST.C.- Number of days you listen to news on the radio
+How many days did you listen to the news on the radio?
+0 No answer
+1 1 day
+2 2 days
+3 3 days
+4 4 days
+5 5 days
+6 6 days
+7 7 days
+96 None
+98 Don’t know
+P68N.E.- Has suffered sexual harassment in the workplace
+Have you suffered or do you know someone who has suffered sexual harassment in the
+workplace?
+0 No answer
+1 Yes
+2 No
+8 Don’t know
+P68ST.A.- Have you or your family been victim of a crime?
+Have you, or someone in your family, been assaulted, attacked, or been the victim of a
+crime in the last 12 months?
+0 No answer
+1 Yes
+2 No
+8 Don’t know
+P68ST.B.- Have you or someone in your family known of a corruption act?
+Have you or someone in your family known of a corrupt act in the last 12 months?
+0 No answer
+1 Yes
+2 No
+8 Don’t know
+P68ST.C.- Do you know anyone who consume drugs?
+Have you known of friends relatives that have consumed drugs in the last 12 months?
+0 No answer
+1 Yes
+2 No
+8 Don’t know
+
+P68ST.D.- Do you know anyone who is involved in selling/buying drugs
+Have you known of somebody who has taken part in the buying or selling of drugs in
+the last 12 months?
+0 No answer
+1 Yes
+2 No
+8 Don’t know
+P6ST.- Past personal economic situation
+Do you consider your economic situation and that of your family to be better, the same,
+or worse than 12 months ago? *Starting in 2001, the option "almost the same" has been
+used as alternative 3.
+0 No answer
+1 Much better
+2 A little better
+3 About the same
+4 A little worse
+5 Much worse
+8 Don’t know
+P71N.- How do you think (nationals) treat old people?
+How do you think (nationals) treat old people? Would you say they treat them …
+0 No answer
+1 Very good
+2 Good
+3 Bad
+4 Very bad
+8 Don’t know
+P72N.A.- Violence within family: Against women
+Do you know of a relative or a close relative having suffered violence within the family
+against women?
+0 Don’t know/No answer
+1 Yes
+2 No
+P72N.B.- Violence within family: Against children
+Do you know of a relative or a close relative having suffered violence within the family
+against children?
+0 Don’t know/No answer
+1 Yes
+2 No
+
+P72N.C.- Violence within family: Against old people
+Do you know of a relative or a close relative having suffered violence within the family
+against aged people?
+0 Don’t know/No answer
+1 Yes
+2 No
+P73N.- Who is mainly responsible for seeing that old people live in dignified
+conditions?
+Who is mainly responsible for seeing that old people live in dignified conditions?
+0 Don’t know/No answer
+1 The state
+2 Family
+3 Each one is responsible of oldness
+P74ST.A.- Present scale of accessing to health
+Using the same scale, how much access to healthcare do you have today?
+0 Don’t know/No answer
+1 1. Nothing
+22
+33
+44
+55
+66
+77
+88
+99
+10 10. Everything
+99 Other answers
+P74ST.B.- Past scale of accessing to health
+Using a scale from 1 to 10, where 1 means “nothing” and 10 means “everything”, how
+much access to health care did your family have five years ago?
+0 Don’t know/No answer
+1 1. Nothing
+22
+33
+44
+55
+66
+77
+88
+99
+10 10. Everything
+99 Other answers
+
+P75ST.- Satisfaction with privatization of public services
+Public services like water, electricity, have been privatized. Considering price and
+quality, are you much more satisfied, satisfied, less satisfied or much less satisfied than
+you were before with these privatized services?
+0 No answer
+1 Much more satisfied
+2 More satisfied
+3 Less satisfied
+4 Much less satisfied
+5 It was not experience of the services before privatizing them
+8 Don’t know
+9 Not applicable
+P77ST.A.- Same opportunity for women and men: To achieve public posts
+In this country, do you think that women are given as much opportunity as men to: Hold
+public posts.
+0 Don’t know/No answer
+1 Yes
+2 No
+P77ST.B.- Same opportunity for women and men: To earn the same salary
+In this country, do you think that women are given as much opportunity as men to: Earn
+the same salary
+0 Don’t know/No answer
+1 Yes
+2 No
+P78ST.A.- Quality of primary education
+We would like to know your opinion about the education in (country). Taking
+everything into consideration, would you say that (country’s) primary education is very
+good, rather good, rather deficient, or very deficient?
+0 Don’t know/No answer
+1 Very good
+2 Rather good
+3 Rather deficient
+4 Very deficient
+P78ST.B.- Quality of primary secondary education
+We would like to know your opinion about the education in (country). Taking
+everything into consideration, would you say that (country’s) secondary education is
+very good, rather good, rather deficient, or very deficient?
+0 Don’t know/No answer
+1 Very good
+2 Rather good
+
+3 Rather deficient
+4 Very deficient
+P78ST.C.- Quality of primary university education
+We would like to know your opinion about the education in (country). Taking
+everything into consideration, would you say that (country’s) university education is
+very good, rather good, rather deficient, or very deficient?
+0 Don’t know/No answer
+1 Very good
+2 Rather good
+3 Rather deficient
+4 Very deficient
+P79ST.A.- Past quality of public hospitals
+Would you say that in [country], in the last 12 months, the quality of public hospitals
+has gone down, gone up or stayed the same?
+0 No answer
+1 Has gone up a lot
+2 Has gone up a little
+3 Has stayed the same
+4 Has gone down a little
+5 Has gone down a lot
+8 Don’t know
+P79ST.B.- Past quality of public schools
+Would you say that in [country], in the last 12 months, the quality of public schools has
+gone down, gone up or stayed the same?
+0 No answer
+1 Has gone up a lot
+2 Has gone up a little
+3 Has stayed the same
+4 Has gone down a little
+5 Has gone down a lot
+8 Don’t know
+P7ST.- Future personal economic situation
+And in the next 12 months do you think that your economic situation and that of your
+family will improve, stay the same or get worse compared to the way it is now?
+Note: Starting in 2001, the option "almost the same" has been used as alternative 3.
+0 No answer
+1 Much better
+2 A little better
+3 About the same
+4 A little worse
+
+5 Much worse
+8 Don’t know
+P80ST.A.- Satisfaction with the health you have access to
+Would you say that you are very satisfied, rather satisfied, not very satisfied or not at all
+satisfied with:
+Your access to health
+0 No answer
+1 Very satisfied
+2 Rather satisfied
+3 Not very satisfied
+4 Not at all satisfied
+5 Doesn’t have these services
+P80ST.B.- Satisfaction with the education you have access to
+Would you say that you are very satisfied, rather satisfied, not very satisfied or not at all
+satisfied with:
+Your access to education.
+0 No answer
+1 Very satisfied
+2 Rather satisfied
+3 Not very satisfied
+4 Not at all satisfied
+5 Doesn’t have these services
+P80N.C.- Satisfaction whit services: Public areas
+¿Would you say you feel very satisfied, rather satisfied, not very satisfied or not at all
+satisfied with … or do not have access to the following services where you live?
+The availability of green areas and public spaces in your neighborhood.
+0 No Answer
+1 Very satisfied
+2 Rather satisfied
+3 Not very satisfied
+4 Not at all satisfied
+5 Doesn’t have these services
+P80N.D.- Satisfaction whit services: Municipal services in general
+¿Would you say you feel very satisfied, rather satisfied, not very satisfied or not at all
+satisfied with … or do not have access to the following services where you live?
+Municipal services in general.
+0 No Answer
+1 Very satisfied
+
+2 Rather satisfied
+3 Not very satisfied
+4 Not at all satisfied
+5 Doesn’t have these services
+P80N.E.- Satisfaction whit services: Roads and paving
+¿Would you say you feel very satisfied, rather satisfied, not very satisfied or not at all
+satisfied with … or do not have access to the following services where you live?
+Roads and paving.
+0 No Answer
+1 Very satisfied
+2 Rather satisfied
+3 Not very satisfied
+4 Not at all satisfied
+5 Doesn’t have these services
+P80N.F.- Satisfaction whit services: Public transport
+¿Would you say you feel very satisfied, rather satisfied, not very satisfied or not at all
+satisfied with … or do not have access to the following services where you live?
+Public transport.
+0 No Answer
+1 Very satisfied
+2 Rather satisfied
+3 Not very satisfied
+4 Not at all satisfied
+5 Doesn’t have these services
+P80N.G.- Satisfaction whit services: Garbage collection
+¿Would you say you feel very satisfied, rather satisfied, not very satisfied or not at all
+satisfied with … or do not have access to the following services where you live?
+Garbage collection.
+0 No Answer
+1 Very satisfied
+2 Rather satisfied
+3 Not very satisfied
+4 Not at all satisfied
+5 Doesn’t have these services
+P80N.H.- Satisfaction whit services: Sewerage services
+¿Would you say you feel very satisfied, rather satisfied, not very satisfied or not at all
+satisfied with … or do not have access to the following services where you live?
+Sewerage services.
+
+0 No Answer
+1 Very satisfied
+2 Rather satisfied
+3 Not very satisfied
+4 Not at all satisfied
+5 Doesn’t have these services
+P81ST_1.- Main reason for unemployment today: Private companies do not invest
+enough
+Main reason for unemployment today. As far as you have heard or read, what is the
+main reason for the unemployment problem today?
+0 Not mentioned
+1 Mentioned
+P81ST_2.- Main reason for unemployment today: The state has an inadequate
+economic policy
+Main reason for unemployment today. As far as you have heard or read, what is the
+main reason for the unemployment problem today?
+0 Not mentioned
+1 Mentioned
+P81ST_3.- Main reason for unemployment today: (countrymen) do not the
+initiative to create new businesses to give create more employment
+Main reason for unemployment today. As far as you have heard or read, what is the
+main reason for the unemployment problem today?
+0 Not mentioned
+1 Mentioned
+P81ST_4.- Main reason for unemployment today: Others
+Main reason for unemployment today. As far as you have heard or read, what is the
+main reason for the unemployment problem today?
+0 Not mentioned
+1 Mentioned
+P82N.A.- Respect of labor laws in payment of minimum wage
+In a 1 to 10 scale, with 1 being "doesn’t comply at all" and 10 being "complies fully",
+how would you rate the degree of compliance of labor laws in (country) en the
+following aspects?
+Payment of a minimum salary
+0 Don’t know/No answer
+1 Not respected at all
+22
+33
+44
+
+55
+66
+77
+88
+99
+10 Fully respected
+P82N.B.- Respect of labor laws in signing the labor contract at beginning of a new
+work
+In a 1 to 10 scale, with 1 being "doesn’t comply at all" and 10 being "complies fully",
+how would you rate the degree of compliance of labor laws in (country) en the
+following aspects?
+Signing the labor contract at beginning of a new work
+0 Don’t know/No answer
+1 Not respected at all
+22
+33
+44
+55
+66
+77
+88
+99
+10 Fully respected
+P82N.C.- Respect of labor laws in dismissal, notice, compensation
+In a 1 to 10 scale, with 1 being "doesn’t comply at all" and 10 being "complies fully",
+how would you rate the degree of compliance of labor laws in (country) en the
+following aspects?
+Dismissal, notice, redundancy compensation, etc.
+0 Don’t know/No answer
+1 Not respected at all
+22
+33
+44
+55
+66
+77
+88
+99
+10 Fully respected
+P82N.D.- Respect of labor laws in length of working day and overtime hours
+In a 1 to 10 scale, with 1 being "doesn’t comply at all" and 10 being "complies fully",
+how would you rate the degree of compliance of labor laws in (country) en the
+following aspects?
+
+Length of working day, agreed hours of work and overtime.
+0 Don’t know/No answer
+1 Not respected at all
+22
+33
+44
+55
+66
+77
+88
+99
+10 Fully respected
+P83N.- A family’s members goes abroad to look for work so as to send money back
+home
+When one of a family’s members goes abroad to look for work so as to send money
+back home, do you think that sacrifice is :
+0 Don’t know/No answer
+1 Very worthwhile
+2 Fairly worthwhile
+3 Not very worthwhile
+4 Not worthwhile at all
+P84N.- Compare the job with the father's one
+Do you think you have, or could have, a job that is much better, somewhat better, the
+same, somewhat worse or much worse than that which your father had?
+0 Don’t know/No answer
+1 Much better
+2 Somewhat better
+3 Same
+4 A bit worse
+5 Much worse
+P86ST.- Most important thing to have success in life
+Taking into consideration, what do you think is that the most important thing to have
+success in life? Do you think the most important thing is:
+0 Don’t know/No answer
+1 Education
+2 Hard work
+3 Connections
+4 Luck
+P87N_1.- Why there are not enough women in public charges: Women are not
+prepared
+From the following options, choose the main reasons why you think there are not
+enough women in public charges, or do you think there are women in public charges
+
+Women are not prepared
+0 Not mentioned
+1 Mentioned
+P87N_2.- Why there are not enough women in public charges: Women have no
+time for politic
+From the following options, choose the main reasons why you think there are not
+enough women in public charges, or do you think there are women in public charges
+Women have no time for politic
+0 Not mentioned
+1 Mentioned
+P87N_3.- Why there are not enough women in public charges: Political system
+discriminates women
+From the following options, choose the main reasons why you think there are not
+enough women in public charges, or do you think there are women in public charges
+Political system discriminates women
+0 Not mentioned
+1 Mentioned
+P87N_4.- Why there are not enough women in public charges: Men do not leave
+place
+From the following options, choose the main reasons why you think there are not
+enough women in public charges, or do you think there are women in public charges
+Men do not leave place
+0 Not mentioned
+1 Mentioned
+P87N_5.- Why there are not enough women in public charges: That is not their
+place
+From the following options, choose the main reasons why you think there are not
+enough women in public charges, or do you think there are women in public charges
+That is not their place
+0 Not mentioned
+1 Mentioned
+P87N_6.- Why there are not enough women in public charges: There are women in
+public positions
+From the following options, choose the main reasons why you think there are not
+enough women in public charges, or do you think there are women in public charges
+
+There are women in public positions
+0 Not mentioned
+1 Mentioned
+P88N.- Housework and childcare
+Housework and childcare should be the responsibility of the mother or the father or be
+shared equally by both?
+0 Don’t know/No answer
+1 Mother responsibility
+2 Father responsibility
+3 Both equally
+P89N.- Policies to allow family responsibilities to be compatible with work
+Do you think the state should have policies to allow family responsibilities to be
+compatible with work? Should it have policies only for men, only for women, or for
+both, or should it not have such policies?
+0 No answer
+1 Only for men
+2 Only for woman
+3 Both
+4 No politics needed
+8 Don’t know
+P8ST.- Economic situation compared with the rest of (nationality)
+Considering your economic situation today compared with that of 10 years ago, would
+you say that you it has greatly improved, somewhat improved, stayed about the same,
+has gotten somewhat worse, or has gotten much worse in comparison with the rest of
+(nationality)?
+0 No answer
+1 It has improved a lot
+2 It has somewhat improved
+3 It has stayed the same
+4 It has gotten somewhat worse
+5 It has gotten a lot worse
+8 Don’t know
+P90N.- How have you managed the health problems?
+How have you managed the health problems you and your family have had in the last
+12 months?
+0 Don’t know/No answer
+1 No difficulty in access to the necessary care
+2 Some difficulty in access to the necessary care
+3 Many difficulties in access to the necessary care
+4 Couldn’t access the necessary care
+5 We haven’t had health problems
+
+P91ST.- How concerned would you say you are that you will be left without work
+within the next 12 months?
+How concerned would you say you are that you will be left without work or
+unemployed during the next 12 months?
+Note: Apply to all respondents.
+0 Don’t know/No answer
+1 Very concerned
+2 Concerned
+3 A little concerned
+4 Not at all concerned
+5 Doesn´t have a job
+9 Not applicable
+P92ST.A.- The meaning of democracy: First mention
+The meaning of democracy. To you, what does “democracy” mean?
+0 No answer
+1 Civil liberties and personal freedom
+2 Voting right
+3 Economic development
+4 Government by, for and of the people
+5 Peace and unity
+6 Good government
+7 Equality and justice
+8 Rule of law
+9 Personal security
+10 National independence
+11 Majority rule
+12 Groups rights
+13 Multi party competition
+14 Movements
+15 Other significant positive meanings
+16 Corruption and abuse
+17 Social and economic hardship
+18 Bad governance
+19 Other negative meanings
+20 Change of government
+21 Other neutral meaning
+98 Don’t know
+P92ST.B.- The meaning of democracy: Second mention
+The meaning of democracy. To you, what does “democracy” mean?
+0 No answer / No data
+1 Civil liberties and personal freedom
+2 Voting right
+3 Economic development
+4 Government by, for and of the people
+
+5 Peace and unity
+6 Good government
+7 Equality and justice
+8 Rule of law
+9 Personal security
+10 National independence
+11 Majority rule
+12 Groups rights
+13 Multi party competition
+14 Movements
+15 Other significant positive meanings
+16 Corruption and abuse
+17 Social and economic hardship
+18 Bad governance
+19 Other negative meanings
+20 Change of government
+21 Other neutral meaning
+98 Don’t know
+P9ST.- How proud are you to be (nationality)?
+How proud are you to be (nationality)? Are you very proud, fairly proud, a little proud,
+or not proud at all?
+0 No answer
+1 Very proud
+2 Fairly proud
+3 A little proud
+4 Not proud at all
+5 I am not (nationality)
+8 Don’t know
+Q1A.- Interviewer upset the economics questions
+Interviewer upset the economics questions
+0 Not mentioned
+1 Mentioned
+Q1B.- Interviewer upset the politics questions
+Interviewer upset the politics questions
+0 Not mentioned
+1 Mentioned
+Q1C.- Interviewer upset the democracy questions
+Interviewer upset the democracy questions
+0 Not mentioned
+1 Mentioned
+
+Q1D.- Interviewer upset the internationals relations questions
+Interviewer upset the internationals relations questions
+0 Not mentioned
+1 Mentioned
+Q1E.- Interviewer upset the environments questions
+Interviewer upset the environments questions
+0 Not mentioned
+1 Mentioned
+Q1F.- Interviewer upset the sociodemographic questions
+Interviewer upset the sociodemographic questions
+0 Not mentioned
+1 Mentioned
+Q2.- The interviewer found the duration of the interview
+The interviewer found the duration of the interview
+0 No data
+1 Very long
+2 Somewhat long
+3 No reaction with respect to duration
+Q3A.- It was difficult to make economics questions
+It was difficult to make economics questions
+0 Not mentioned
+1 Mentioned
+Q3B.- It was difficult to make politics questions
+It was difficult to make politics questions
+0 Not mentioned
+1 Mentioned
+Q3C.- It was difficult to make about democracy questions
+It was difficult to make about democracy questions
+0 Not mentioned
+1 Mentioned
+Q3D.- It was difficult to make international relations questions
+It was difficult to make international relations questions
+0 Not mentioned
+1 Mentioned
+
+Q3E.- It was difficult to make environmental questions
+It was difficult to make environmental questions
+0 Not mentioned
+1 Mentioned
+Q3F.- It was difficult to make sociodemographic questions
+It was difficult to make sociodemographic questions
+0 Not mentioned
+1 Mentioned
+reeduc1.- Respondent Education
+Code only. Respondent Education Summary
+0 No answer/No data
+1 Illiterate
+2 Incomplete primary
+3 Complete primary
+4 Incomplete Secondary, technical
+5 Complete Secondary, technical
+6 Incomplete high
+7 Complete high
+9 Not applicable
+reeduc2.- Parents Education
+Code only. Respondent Education Summary Parents
+0 No answer/No data
+1 Illiterate
+2 Incomplete primary
+3 Complete primary
+4 Incomplete Secondary, technical
+5 Complete Secondary, technical
+6 Incomplete high
+7 Complete high
+9 Not applicable
+reeduc3.- Chief Income Earner Education
+Code only. Head of the household education
+0 No answer/No data
+1 Illiterate
+2 Incomplete primary
+3 Complete primary
+4 Incomplete Secondary, technical
+5 Complete Secondary, technical
+6 Incomplete high
+7 Complete high
+9 Not applicable
+
+REG.- Region/Geographical Area
+Region/Geographical Area
+0 No data
+S1.- Subjective Income
+Does your salary and the total of your family's salary allow you to satisfactorily cover
+your needs? Which of the following situations do you find yourself in?
+0 No answer
+1 It is sufficient, you can save
+2 It is just sufficient, without major problems
+3 It is not sufficient, you have problems
+4 It is not sufficient, you have big problems
+8 Don’t know
+S2.- Religion
+What is your religion?
+0 No answer
+1 Catholic
+2 Evangelic without specifications
+3 Evangelic Baptist
+4 Evangelic Methodist
+5 Evangelic Pentecostal
+6 Adventist
+7 Jehovah Witness
+8 Mormon
+9 Jewish
+10 Protestant
+11 Afro-American Cult, Umbanda, etc
+12 Believer, not belonging to any church
+13 Agnostic
+14 Atheist
+17 Spiritist/Kardecist
+18 Christian
+19 Spiritist
+96 Others
+97 None
+98 Don’t know
+S3.- How would you describe yourself?
+How would you describe yourself?
+0 No answer
+1 Very devout
+2 devout
+3 Not very devout
+4 Not devout at all
+
+8 Don’t know
+9 Not applicable
+S4.- Have you and your family seriously considered living abroad?
+Have you and your family ever seriously considered going to live abroad?
+0 Don’t know/No answer
+1 Yes
+2 No
+S5.- Have you ever used e-mail?
+Have you ever used e-mail to communicate?
+0 Don’t know/No answer
+1 Yes, daily
+2 Yes, occasionally
+3 Yes, almost never
+4 No, never
+S5A.- Most frequent use of internet
+Independently of where you use the internet, for what do you use it most frequently?
+0 Don’t know/No answer
+1 Use e-mail
+2 Search information
+3 Entertainment
+4 Work
+5 Other
+9 Not applicable
+S6.- Sex
+Respondent's sex
+0 Don’t know/No answer
+1 Male
+2 Female
+S7.- Age
+What's your age?
+0 No answer
+
+S8.- If respondent Chief Income Earner
+If respondent Head of the household
+0 Don’t know/No answer
+1 Yes (Is Head of the household)
+2 No
+
+S9.- Marital status
+What is your marital status?
+0 Don’t know/Don’t answer
+1 Married/Living with partner
+2 Single
+3 Separated/Divorced/Widow/er
+S10.- Age respondent finished education
+Age respondent finished education
+96 No studies
+97 Respondent is studying
+98 Don’t know/Don’t remember
+99 No answer
+
+S11.- Respondent Years/Type of education
+How much and what type of education respondent completed
+0 No data/No answer
+1 Without education
+2 1 year
+3 2 years
+4 3 years
+5 4 years
+6 5 years
+7 6 years
+8 7 years
+9 8 years
+10 9 years
+11 10 years
+12 11 years
+13 12 years
+14 Incomplete university
+15 Completed university
+16 High school/academies/Incomplete technical training
+17 High school/academies/Complete technical training
+S12.- Parents Years/Type of education
+Years in education of parents
+0 No data/No answer
+1 Without education
+2 1 year
+3 2 years
+4 3 years
+5 4 years
+6 5 years
+7 6 years
+
+8 7 years
+9 8 years
+10 9 years
+11 10 years
+12 11 years
+13 12 years
+14 Incomplete university
+15 Completed university
+16 High school/academies/Incomplete technical training
+17 High school/academies/Complete technical training
+98 Don’t know/Don’t remember
+S13A.- What is current employment situation?
+What is your current employment situation?
+0 No answer
+1 Self employed
+2 Salaried employee in a public company
+3 Salaried employee in a private company
+4 Temporarily out of work
+5 Retired
+6 Don’t work / responsible for shopping and house work
+7 Student
+S13B.- Respondent last kind of work
+Respondent last kind of work
+0 No answer/No data
+1 Self-employed: Professional (doctor, lawyer, accountant,
+2 Self-employed: Business owner
+3 Self-employed: Farmer/Fisherman
+4 Self-employed: informal
+5 Salaried: Professional
+6 Salaried: Senior Management
+7 Salaried: Middle Management
+8 Other employee
+9 Not applicable
+S14.- Respondent kind of work
+Respondent kind of work
+0 No answer/No data
+1 Self-employed: Professional (doctor, lawyer, accountant,
+2 Self-employed: Business owner
+3 Self-employed: Farmer/Fisherman
+4 Self-employed: informal
+5 Salaried: Professional
+6 Salaried: Senior Management
+7 Salaried: Middle Management
+
+8 Other employee
+9 Not applicable
+S15A.- Goods: TV
+Do you or any member of your family own any of the following household goods?
+TV
+0 No answer
+1 Yes
+2 No
+S15B.- Goods: Refrigerator
+Do you or any member of your family own any of the following household goods?
+Refrigerator
+0 No answer
+1 Yes
+2 No
+S15C.- Goods: Own home
+Do you or any member of your family own any of the following household goods?
+Owned house
+0 No answer
+1 Yes
+2 No
+S15D.- Goods: Computer
+Do you or any member of your family own any of the following household goods?
+Computer
+0 No answer
+1 Yes
+2 No
+S15E.- Goods: Washing machine
+Do you or any member of your family own any of the following household goods?
+Washing machine
+0 No answer
+1 Yes
+2 No
+S15F.- Goods: Telephone
+Do you or any member of your family own any of the following household goods?
+Telephone
+0 No answer
+1 Yes
+2 No
+
+S15G.- Goods: Mobile telephone
+Do you or any member of your family own any of the following household goods?
+Mobile telephone
+0 No answer
+1 Yes
+2 No
+S15H.- Goods: Car
+Do you or any member of your family own any of the following household goods?
+Car
+0 No answer
+1 Yes
+2 No
+S15I.- Goods: Second home
+Do you or any member of your family own any of the following household goods?
+Second home
+0 No answer
+1 Yes
+2 No
+S15J.- Goods: Drinking water
+Do you or any member of your family own any of the following household goods?
+Drinking water
+0 No answer
+1 Yes
+2 No
+S15K.- Goods: Hot water
+Do you or any member of your family own any of the following household goods?
+Hot water
+0 No answer
+1 Yes
+2 No
+S15L.- Goods: Sewage system
+Do you or any member of your family own any of the following household goods?
+Sewage system
+0 No answer
+1 Yes
+2 No
+S16.- How do you cover your health expenses?
+How do you cover your health expenses?
+
+0 Don’t know/No answer
+1 Private Insurance
+2 Public Insurance
+3 Doesn’t have insurance
+S17.- State of physical health
+Over the past 12 months, would you say your physical health has been …
+0 Don’t know/No answer
+1 Very good
+2 Good
+3 Average
+4 Poor
+5 Very Poor
+S18.- What is your mother tongue?
+What is your mother tongue?
+1 Spanish
+2 Portuguese
+3 Indigenous language
+4 Other
+S19.- Interview language
+Interview language
+0 Don’t know/No answer
+1 Spanish
+2 Portuguese
+3 Indigenous language
+4 Other
+S20.- Age Chief Income Earner finished education
+Age Head of the household finished education
+0 No answer
+96 No studies
+97 Respondent is studying
+98 Don’t know/Don’t remember
+99 No applicable
+S21.- Years/Type of education of Chief Income Earner
+Years/Type of education of Head of the household
+0 No data/No answer
+1 Without education
+2 1 year
+3 2 years
+4 3 years
+5 4 years
+
+6 5 years
+7 6 years
+8 7 years
+9 8 years
+10 9 years
+11 10 years
+12 11 years
+13 12 years
+14 Incomplete university
+15 Completed university
+16 High school/academies/Incomplete technical training
+17 High school/academies/Complete technical training
+96 Didn’t study
+97 Still studying
+98 Don’t know/Don’t remember
+99 Not applicable
+S22A.- Chief Income Earner occupational status
+What is the Head of the household current employment situation?
+0 No data/No answer
+1 Self employed
+2 Salaried employee in a public company
+3 Salaried employee in a private company
+4 Temporarily out of work
+5 Retired
+6 Don’t work / responsible for shopping and house work
+7 Student
+8 No answer
+9 Not applicable
+S22B.- Chief Income Earner last kind of work
+Head of the household last kind of work
+0 No answer/No data
+1 Professional (doctor, lawyer, accountant, architect)
+2 Business owner
+3 Farmer/Fisherman
+4 Self-employed, informal
+5 Salaried professional
+6 Senior management
+7 Middle management
+8 Other employee
+9 Not applicable
+S23.- Chief Income Earner current kind of work
+Head of the household kind of work
+0 No answer/No data
+1 Professional (doctor, lawyer, accountant, architect)
+
+2 Business owner
+3 Farmer/Fisherman
+4 Self-employed, informal
+5 Salaried professional
+6 Senior management
+7 Middle management
+8 Other employee
+9 Not applicable
+S24.- Socioeconomic level
+Perception of the respondent's socioeconomic status. Point of reference: Quality of
+housing, quality of furniture and respondent's looks.
+0 No answer
+1 Very good
+2 Good
+3 Not bad
+4 Bad
+5 Very bad
+9 Not applicable
+SUPERV.- Supervision
+Supervision
+0 Not done
+1 Quality
+2 Mask
+TAMCIUD.- Size of town
+Size of town
+* The categories changed for the 97-98, 2000 and 2001-forward periods
+1 Up to 5.000 habitants
+2 5001-10.000 habitants
+3 10001-20000 habitants
+4 20001-40000 habitants
+5 40001-50000 habitants
+6 50001-100000 habitants
+7 100001 and more habitants
+8 Capital
+TOTCUOT.- Control of quota
+Control of quota
+0 No data, Not applicable
+TOTPERD.- Total lost
+Total lost
+0 No data
+
+TOTRECH.- Total rejections
+Total rejections
+0 No data
+TOTREVI.- Control of re-interview
+Control of re-interview
+0 No data
+WT.- Weigthing
+Sample weighting
+1 No weighting
+
+

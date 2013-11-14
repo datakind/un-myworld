@@ -1,0 +1,2835 @@
+QUESTIONNAIRE
+LATINOBARÓMETRO
+2007
+
+Diciembre, 2007
+
+LATINOBARÓMETRO 2007 QUESTIONNAIRE
+
+1
+
+Q1ST.A In general, would you say you are satisfied
+with your life? Would you say you are....? (READ THE
+ALTERNATIVES AND TICK ONLY ONE)
+Very satisfied..........1
+Fairly satisfied........2
+Not very satisfied......3
+Not satisfied at all....4
+DNK/DNA.................0 DON’T READ
+Q2ST. And over the next 12 months do you think that,
+in general, the country’s economic situation will be
+much better, a little better, about the same, a little
+worse or much worse than now? (WAIT FOR ANSWER AND
+TICK ONLY ONE)
+Much better.............1
+A little better.........2
+About the same..........3
+A little worse..........4
+Much worse..............5
+DNK.....................8 DON’T READ
+DNA.....................0
+
+Q5ST. Taking everything into consideration, would you
+say that your parents lived better, the same or worse
+than how you live? (WAIT FOR ANSWER AND TICK ONLY ONE
+Q5STA) And regarding your children, do you believe
+they will live better, the same, or worse than how you
+live today? (WAIT FOR ANSWER AND TICK ONLY ONE Q5STB)
+Q5ST.A Parents
+Q5ST.B Children
+Better........... 1
+1
+Same............. 2
+2
+Worse............ 3
+3
+DNK/DNA.......... 0
+0 DON’T READ
+P6STM. (SHOW CARD 1)
+Imagine a staircase with 10
+steps, in which on the first step are located the
+poorest and on the 10th step, the richest.
+Where
+would you put yourself on this staircase? P6ST.B Where
+would you put your parents on this staircase? P6ST.C
+Where do you think your children will be on this
+staircase?
+
+P6ST.A
+
+06
+
+07
+
+MORE RICH
+08 09 10
+
+DNK
+98
+
+DNA
+00
+
+10
+
+Q11ST. How much confidence do you have in democracy as
+a system of government through which (country) can
+become a developed country? (READ THE ALTERNATIVES AND
+TICK ONLY ONE)
+A lot of confidence...........1
+Some confidence...............2
+Little confidence.............3
+No confidence.................4
+DNK/DNA.......................0
+
+Q4N. Where do you think things in (country) are going?
+Compared with today, do you think that the country
+will be more or less prosperous or the same for the
+next generation? (WAIT FOR ANSWER, TICK ONLY ONE,
+CONTINUE AND REPEAT FOR EACH ITEM); Democratic
+(CONTINUE) Corrupt (CONTINUE) Powerful (CONTINUE)
+Religious (THEN CONTINUE)
+More Same
+Less DNK/DNA
+Prosperous............. 1
+2
+3
+0
+Democratic............. 1
+2
+3
+0
+Corrupt................ 1
+2
+3
+0
+Powerful............... 1
+2
+3
+0
+Religious.............. 1
+2
+3
+0
+
+05
+
+Totally democratic
+
+01
+02
+03
+04
+05
+06
+07
+08
+09
+Other answers.................. 99 DON’T READ
+DNK............................88
+DNA........................00
+
+Very satisfied..........1
+Fairly satisfied........2
+Not very satisfied......3
+Not satisfied at all....4
+DNK.....................8 DON’T READ
+DNA.....................0
+
+04
+
+Q10ST. (SHOW CARD 2) This is a scale to rate how
+democratic [country] is. The top, 10, means that
+“(country) is totally democratic”, the bottom, 01,
+means that (country) is not democratic”. Where would
+you place (country)? (SHOW CARD, WAIT FOR ANSWER AND
+WRITE DOWN)
+Not democratic
+
+Q3STM. In general, would you say you are very
+satisfied, fairly satisfied, not very satisfied or not
+satisfied at all with the way the economy works in
+(country)? (WAIT FOR ANSWER AND TICK ONLY ONE)
+
+MORE POOR
+01 02 03
+
+Democracy is preferable to any
+other kind of government..........................1
+Under some circumstances, an authoritarian
+government can be preferable to
+a democratic one..................................2
+For people like me, it doesn’t matter
+whether we have a democratic or
+non-democratic regime.............................3
+DNK.............................8 DON’T READ
+DNA...........................0
+
+DON’T READ
+
+Q12ST. In general, would you say you are very
+satisfied, fairly satisfied, not very satisfied or not
+satisfied at all with the way democracy works in
+(country)? (WAIT FOR ANSWER AND TICK ONLY ONE)
+Very satisfied..........1
+Fairly satisfied........2
+Not very satisfied......3
+Not satisfied at all....4
+DNK......................8 DON’T READ
+Q13ST and NA (SHOW CARD 3) Do you strongly agree (1),
+agree (2), disagree (3) or strongly disagree (4) with
+the following statements? (READ EACH STATEMENT AND
+TICK ONLY ONE ANSWER FOR EACH STATEMENT) (ROTATE)
+SA A D SD DNK DNA
+Q13ST.A Democracy may have problems,
+but it is the best system
+of government ...................... 1
+2
+3
+4
+0
+Q13ST.B Through its decisions, the
+government seeks the welfare of
+the people ......................... 1
+2
+3
+4
+0
+Q13NA.C Democracy creates the
+conditions in which people
+like me can prosper
+through their own efforts ......... 1
+2
+3
+4
+0
+Q13N D. Nobody cares what happens
+to other people
+1
+2
+3 4
+0
+Q14N (SHOW CARD 4) Here is a similar scale of 1 to 10
+measuring the extent to which people think democracy
+is suitable for (country). If “1” means that democracy
+is completely unsuitable for (country) today and “10”
+means that it is completely suitable, where would you
+place our country today? (SHOW SCALE, WAIT FOR ANSWER
+AND TICK ONE NUMBER)
+DEMOCRACY
+IS COMPLETELY
+UNSUITABLE
+
+01
+
+02
+
+03
+
+DEMOCRACY
+IS COMPLETELY
+SUITABLE
+
+04
+
+05
+
+06
+
+07
+
+08
+
+09
+
+10
+
+DNK
+
+DNA
+
+98
+
+00
+
+Yourself
+
+P6ST.B Parents
+P6ST.C
+
+Children
+
+Q7ST. In your opinion, what is the most important
+problem in the country? (WRITE DOWN ANSWER AS GIVEN,
+ONLY ONE ANSWER, THE MOST IMPORTANT)
+
+Q15N.(SHOW CARD 5) To what extent would you want
+(country) to be democratic now? (SHOW SCALE, WAIT FOR
+ANSWER AND TICK ONE NUMBER)
+COMPLETE
+DICTATORSHIP
+
+01
+
+02
+
+03
+
+COMPLETE
+DEMOCRACY
+
+04
+
+05
+
+06
+
+07
+
+08
+
+09
+
+10
+
+DNK
+
+DNA
+
+98
+
+00
+
+None....97 DNK....98 DNA....00 DO NOT READ
+
+Q16ST. In general, would you say (country) is governed
+for the benefit of a few powerful groups or is
+governed for the good of all? (WAIT FOR ANSWER AND
+TICK ONLY ONE ALTERNATIVE)
+
+Q8N. Do you think that in (country) a person who is
+born poor and works hard can become rich, or do you
+think it’s not possible to be born poor and become
+rich? (WAIT FOR ANSWER AND TICK ONLY ONE)
+A person born poor who works hard can become rich.. 1
+It’s not possible to be born poor and become rich.. 2
+DNK/DNA...................................0 DON’T READ
+
+For the benefit of a
+few powerful groups.....................1
+For the good of all.....................2
+DNK/DNA.................................0 DON’T READ
+
+Q9ST. With which of the following statements do you
+agree most? (READ THE ALTERNATIVES AND TICK ONLY ONE)
+
+Q17ST. How fair do you think income distribution is in
+[country]? Very fair, fair, unfair or very unfair?
+(READ THE ALTERNATIVES, WAIT FOR ANSWER AND TICK ONLY
+ONE)
+
+LATINOBARÓMETRO 2007 QUESTIONNAIRE
+
+2
+
+Very fair........1
+Fair.............2
+Unfair ..........3
+Very unfair......4
+DNK..............8 DON’T READ
+DNA..............0
+
+Radio
+Now we will continue with questions about trust.
+
+Q18N. (SHOW CARD 6) What do you mean? To what extent
+do the following freedoms, rights, life-chances and
+guarantees apply in (country)? (READ EACH ITEM AND
+TICK AN ANSWER FOR EACH)
+Fully . . . . . . . . . . . . .
+Fairly generally . . . . . . .
+Not generally . . . . . . . . .
+Not at all . . . . . . . . . .
+DNK/DNA.......... ..............
+
+1
+2
+3
+4
+0 DON’T READ
+
+Q18NA. Freedom of political participation
+Q18NB. Freedom to choose one’s occupation
+Q18NC. Protection of the environment
+Q18ND. Protection of private property
+Q18NE. Just and fair distribution of wealth
+Q18NF. Equality of men and women
+Q18NG. Equality of life chances regardless of
+origin
+Q18NH. Freedom of speech always and everywhere
+Q18NI. Freedom of religion/faith
+
+Q23ST. Generally speaking, would you say that you can
+trust most people, or that you can never be too
+careful when dealing with others? (WAIT FOR ANSWER AND
+TICK ONLY ONE)
+One can trust most people............1
+One can never be too careful
+when dealing with others.............2
+DNK/DNA ....... ......................0 DON’T READ
+Q24ST. (SHOW CARD 8) Please look at this card
+tell me how much trust you have in each of
+following groups/institutions. Would you say you
+a lot (1), some (2), a little (3) or no trust
+(READ EACH ALTERNATIVE AND TICK ONE FOR EACH)
+Lot Some Little None
+Q24ST.A. The government.....1
+2
+3
+4
+Q24ST.B. Private companies..1
+2
+3
+4
+Q24ST.C. Newspapers.........1
+2
+3
+4
+
+Q24ST.D. Judiciary..........1
+Q24ST.E. The President......1
+Q24ST.F. National Congress/.1
+Parliament
+Q24ST.G. Firemen............1
+Q24ST.H. A relative that you
+DNK
+1
+Q24ST.I. Television.........1
+
+DNA
+
+2
+2
+2
+
+3
+3
+3
+
+4
+4
+4
+
+8
+8
+8
+8
+8
+8
+
+0
+0
+0
+0
+0
+0
+
+2
+
+3
+
+4
+
+8
+
+0
+
+2
+2
+
+3
+3
+
+4
+4
+
+8
+8
+
+0
+0
+
+Q25N. (SHOW CARD 9) Please look at this card and tell
+me if you think that most people would try to take
+advantage of you if they had the chance, or would try
+to be fair. (WAIT FOR ANSWER AND TICK ONLY ONE)
+
+Q18NJ. Protection against crime
+Q18NK. Social security
+Q18NL. Solidarity with the poor and needy
+Q18NM. Chance to get a job
+
+MOST PEOPLE WOULD
+TRY TO TAKE ADVANTAGE
+OF ME
+
+00
+Q19N. (SHOW CARD 7) There are different opinions as to
+what it takes to be a good citizen. (WAIT FOR ANSWER
+AND TICK ALL THOSE MENTIONED)
+Vote in elections.................. 1
+Pay taxes.......................... 2
+Always obey laws and
+regulations........................ 3
+Participate in social
+organizations...................... 4
+Participate in political
+organizations...................... 5
+Choose products environmentally.... 6
+Help people in (country)who
+are worse off than yourself........ 7
+Be willing to serve in the
+military at a time of need......... 8
+DNK/DNA............................ 0 DON’T READ
+Q20ST. There are different opinions about justice in
+(country). Some people think there is equal access to
+justice for everyone in (country); other people think
+there is no equality of access to justice. Which of
+these ideas is closest to your way of thinking? (WAIT
+FOR ANSWER AND TICK ONLY ONE)
+Equality of access.................1
+No equality of access.............. 2
+DNK ...............................8 DON’T READ
+DNA ...............................0
+Now we want to ask you about the mass media.
+Q21ST In general, do you believe the media are fairly
+independent, or do you think they are frequently
+influenced by powerful institutions and people? (READ
+THE ALTERNATIVES AND TICK ONLY ONE)
+Are fairly independent............. 1
+Frequently influenced by powerful
+institutions and people............ 2
+DNK................................ 8 DON’T READ
+DNA................................ 0
+Q22ST. How many days during the last week did you
+watch the news on television? (WAIT FOR ANSWER, WRITE
+DOWN NUMBER OF DAYS AND CONTINUE) How many days did
+you read the news in a paper? (WAIT FOR ANSWER, WRITE
+DOWN NUMBER OF DAYS AND CONTINUE) How many days did
+you listen to the news on the radio? (WAIT FOR ANSWER,
+WRITE DOWN NUMBER OF DAYS AND CONTINUE)
+DAYS
+NONE
+DNK DNA
+Q22ST.A
+Television
+Q22ST.B
+Paper
+Q22ST.C
+
+DNK
+
+and
+the
+have
+(4)?
+
+96
+
+98
+
+0
+
+96
+
+98
+
+0
+
+96
+
+98
+
+0
+
+01
+
+02
+
+03
+
+04
+
+MOST PEOPLE WOULD
+TRY TO BE FAIR
+
+05
+
+06
+
+07
+
+08
+
+09
+
+10
+
+DK
+
+DNA
+
+98
+
+00
+
+Q26N. (SHOW CARD 10) Would you say that most of the
+time people try to be helpful or that they are mostly
+looking out for themselves? (SHOW SCALE, WAIT FOR
+ANSWER AND TICK ONLY ONE)
+PEOPLE
+MOSTLY TRY TO BE
+HELPFUL
+
+PEOPLE
+MOSTLY LOOK OUT FOR
+THEMSELVES
+
+00
+
+01
+
+02
+
+03
+
+04
+
+05
+
+06
+
+07
+
+08
+
+09
+
+10
+
+DNK
+
+DNA
+
+98
+
+00
+
+Q27ST. (SHOW CARD 10)Please, look at this card and
+tell me how much trust you have in each of the
+following groups, institutions or persons: a lot (1),
+some (2), little (3) or no trust (4). (READ EACH
+ALTERNATIVE AND TICK ONLY ONE ANSWER FOR EACH)
+LOT SOME LITTLE NONE DNK DNA
+Q27ST.A Radios ............1
+2
+3
+4
+8
+0
+Q27ST.B. National
+Electoral Commission...... 1
+2
+3
+4
+8
+0
+Q27ST.C. The church........ 1
+2
+3
+4
+8
+0
+Q27ST.D. Armed forces.......1
+2
+3
+4
+8
+0
+Q27ST.E. Political parties
+Q27ST.F. Police
+Q27ST.G. Your neighbor..... 1
+2
+3
+4
+8
+0
+Q27N.H A foreigner......... 1
+2
+3
+4
+8
+0
+Q27N.I Indigenous person .1
+Q27N.J A poor person ......1
+Q27N.K A (national) .......1
+
+2
+2
+2
+
+3
+3
+3
+
+4
+4
+4
+
+8
+8
+8
+
+0
+0
+0
+
+Q28ST. When one of a family’s members goes abroad to
+look for work so as to send money back home, do you
+think that sacrifice is very worthwhile, fairly
+worthwhile, not very worthwhile or not worthwhile at
+all? (WAIT FOR ANSWER AND TICK ONLY ONE)
+Very worthwhile............... 1
+Fairly worthwhile............. 2
+Not very worthwhile............3
+Not worthwhile at all......... 4
+DNK/DNA........................0 DON’T READ
+Q29ST. (SHOW CARD 11) How much do you agree or
+disagree with the following aspects of economic
+integration in Latin America? Would you say you
+strongly agree, agree, disagree or strongly disagree
+with...? (READ THE ALTERNATIVES AND TICK ONE ANSWER
+FOR EACH)
+Strongly agree ......... 1
+Agree .................. 2
+Disagree ............... 3
+Strongly disagree ...... 4
+DNK .................... 8 DON’T READ
+DNA .................... 0
+Q29ST.A That (nationals) can go to
+work in neighboring countries and
+other countries of the region and
+that citizens of any other country
+in the region can come to work in
+(country) ............................ 1
+
+2
+
+3
+
+4
+
+0
+
+LATINOBARÓMETRO 2007 QUESTIONNAIRE
+
+3
+
+Q29ST.B That (nationals) can invest
+abroad and foreigners can invest in
+(country) without restrictions....... 1
+Q29ST.C That foreigners have the same
+rights as (nationals)................ 1
+Q29N.D Generally I am less proud
+of my country that I would like
+to be................................ 1
+Q29N.E. The equal treatment that
+exists in my country make me proud... 1
+Q29N.F. In general my country is
+better than other countries.......... 1
+
+2
+
+3
+
+4
+
+0
+
+2
+
+3
+
+4
+
+0
+
+2
+
+3
+
+4
+
+0
+
+2
+
+3
+
+4
+
+0
+
+2
+
+3
+
+4
+
+0
+
+Military intervention by USA ...................
+Commercial and economic practices of USA ........
+Americans view (nationals) with contempt .......
+Historical reasons related to
+military governments ............................
+DNK, DNA(DON’T READ) ............................
+
+VERY GOOD/GOOD/BAD/VERY BAD/DNK/DNA
+
+4
+4
+4
+4
+
+8
+8
+8
+8
+
+0
+0
+0
+0
+
+Q38ST.A
+USA
+Very good ......... .1
+Fairly good ........ 2
+Fairly poor ....... 3
+Very poor .......... 4
+DNK ................ 8
+DNA ................ 0
+
+DNA...00 DON’T READ
+
+Q34N. (SHOW CARD 14) Is (country) made a worse or a
+better place to live in by people coming to live here
+from other countries? (SHOW SCALE, WAIT FOR ANSWER AND
+TICK ONLY ONE)
+
+03
+
+04
+
+05
+
+06
+
+07
+
+08
+
+DNK
+98
+
+Q35ST. (SHOW CARD 15) I would like to know your
+opinion about the following countries that I’m going
+to read. Do you have a very good, good, bad or very
+bad opinion of…... (READ EACH COUNTRY, WAIT FOR
+ANSWER, TICK AND CONTINUE)
+VG G
+B VB DNK DNA
+Q35ST.A. United States....1
+2
+3
+4 8
+0
+Q35ST.B. European Union...1
+2
+3
+4 8
+0
+Q35ST.C. Japan............1
+2
+3
+4 8
+0
+Q35ST.D. China............1
+2
+3
+4 8
+0
+Q35ST.E. Spain............1
+2
+3
+4 8
+0
+Q35ST.F. Cuba.............1
+2
+3
+4 8
+0
+Q36IA (SHOW CARD 16) Independently of your own opinion
+of the USA, please tell me which of the following
+reasons are most important in the bad opinion that
+some people have of the USA. (ACCEPT UP TO TWO
+ANSWERS)
+1ST 2ND
+The negative influence of American
+culture and society............................. 1
+1
+Envy of the power and wealth of USA............. 2
+2
+The way USA treats other countries.............. 3
+3
+
+Q38ST.C
+SPAIN
+1
+2
+3
+4
+8 DON’T READ
+0
+
+Q40IA. (SHOW CARD 19) Using this card, please tell me
+with how much respect you think the United States
+treats (country): a lot 1), quite a lot (2), little
+(3) or none (4). (WAIT FOR ANSWER AND TICK ONLY ONE)
+And to what extent... (READ EACH ALTERNATIVE, WAIT FOR
+ANSWER AND TICK ONLY ONE ANSWER FOR EACH)
+L QL L N DNK DNA
+Q40IA.A Treats (country) with
+respect .......................... 1
+2
+3
+4
+8
+0
+Q40IA.B Is sincerely interested
+in solving the problems
+of (country) ..................... 1
+2
+3
+4
+8
+0
+Q40IA.C Helps the development
+of poor countries ................ 1
+2
+3
+4
+8
+0
+
+Q33N.Which is the Latin American country that offers
+the best conditions for its population? (WRITE DOWN
+ANSWER AS GIVEN)
+
+02
+
+Q38ST.B
+EU
+1
+2
+3
+4
+8
+0
+
+Very positive.......... 1
+Fairly positive........ 2
+Fairly negative.........3
+Very negative.......... 4
+Neither negative nor positive5 DON’T READ
+Doesn’t have influence..6
+DNK.....................8
+DNA.....................0
+
+Now moving on to international issues.
+
+BETTER
+PLACE
+TO LIVE
+09 10
+
+7
+0
+
+Q39IA. Now thinking about the role that the USA plays
+in Latin America and considering everything that it
+does, would you say that, in general, the USA has a
+positive or negative influence? Do you think that it
+is very positive, fairly positive, fairly negative or
+very negative? (WAIT FOR ANSWER AND TICK ONLY ONE)
+
+Q32ST. Do you approve or disapprove of the current
+administration headed by (NAME OF PRESIDENT)? (WAIT
+FOR ANSWER AND TICK ONLY ONE) Q35NCB. Do you approve
+or disapprove of the way (country) is dealing with the
+energy problem? (WAIT FOR ANSWER AND TICK ONLY ONE IN
+Q32NCB) Q36NCC. And the fight against poverty? (WAIT
+FOR ANSWER AND TICK ONLY ONE IN Q32CC) Q37NCD. And
+relations with other countries?
+32STA
+32NCB
+32NCC
+32NCD
+Approve...............1
+1
+1
+1
+Disapprove............2
+2
+2
+2
+0
+DNK/DNA....... .......0
+0
+0
+
+WORSE
+PLACE
+TO LIVE
+00 01
+
+7
+0
+
+Q38ST. (SHOW CARD 18) How would you describe relations
+between (country) and the United States? (WRITE DOWN
+ANSWER UNDER UNITED STATES AND CONTINUE WITH QUESTION)
+Would you say they are very good, good, fairly poor,
+or very poor? And between (country) and the European
+Union? (TICK AN ANSWER AND CONTINUE WITH QUESTION) And
+between (country) and Spain? (TICK AN ANSWER)
+
+Q31N.A (SHOW CARD 13) To what extent do you think
+(country) should allow people of the same race or
+ethnic group as most of (country’s) people to come and
+live here? (WRITE DOWN AN ANSWER IN Q31N.A)Q31N.B How
+about people of a different race or ethnic group from
+most of (country’s) people? (WRITE DOWN AN ANSWER IN
+Q31N.B) Q31N.C How about people from poorer countries?
+(WRITE DOWN AN ANSWER IN Q31N.C)
+Q31N.A Q31N.B Q31N.C
+Allow many to come and
+live here............................ 1
+1
+1
+Allow some........................... 2
+2
+2
+Allow few............................ 3
+3
+3
+Allow none........................... 4
+4
+4
+DNK/DNA.............................. 0
+0
+0 DON’T
+READ
+
+DNK...98
+
+4
+5
+6
+
+Q37IA. (SHOW CARD 17) Now using this card please look
+at each item and tell me which of them, if any, are
+the reasons why people admire the USA. (ACCEPT UP TO
+TWO ANSWERS)
+1ERA
+2NDA
+Political system ................... 01
+01
+Cultural contribution .............. 02
+02
+Economic success ................... 03
+03
+Technological achievement .......... 04
+04
+The unity of its people ............ 05
+05
+Health system ...................... 06
+06
+Military power ..................... 07
+07
+Legal system ....................... 08
+08
+Educational system ................. 09
+09
+Openness to new people,
+ideas and cultural differences ..... 10
+10
+None .............................. 97
+97
+DNK/DNA ............................ 00
+00
+
+Q30ST. (SHOW CARD 12) In your opinion, is the work the
+Parliament/National Congress is doing very good (1),
+good (2), bad (3), very bad (4), or do you have
+insufficient information to reply (8)? (WAIT FOR
+ANSWER, TICK ONLY ONE AND CONTINUE) And the political
+parties? (READ THE ALTERNATIVES AND TICK AN ANSWER FOR
+EACH)
+Q30ST.A Parliament/National
+Congress....................... 1
+2
+3
+Q30ST.B Political parties........ 1
+2
+3
+Q30ST.C Judiciary................ 1
+2
+3
+Q30ST.D Businesspeople in general 1
+2
+3
+
+4
+5
+6
+
+DNA
+00
+
+Q41ST. All things considered, as far as you know or
+have heard, how would you rate the environment in
+(country)? Would you say that it is very good, good,
+about average, bad, or very bad? (WAIT FOR ANSWER AND
+TICK ONLY ONE)
+Very good..........1
+Good...............2
+About average......3
+Bad................4
+Very bad...........5
+DNK/DNA..............0 DON’T READ
+Q42ST. How much have you heard about global warming or
+climate change? (WAIT FOR ANSWER AND TICK ONLY ONE)
+A lot..................1
+Something..............2
+A little ..............3
+Nothing................4
+DNK/DNA................0 DON’T READ
+Q43ST. How much do you think global warming affects
+(country)? (WAIT FOR ANSWER AND TICK ONLY ONE) And how
+much do you think it affects you? (WAIT FOR ANSWER AND
+TICK ONLY ONE)
+Q43ST.A Q43ST.B
+A lot..................1
+1
+Some effect............2
+2
+Little.................3
+3
+
+LATINOBARÓMETRO 2007 QUESTIONNAIRE
+No effect..............4
+DNK/DNA................0
+
+4
+
+4
+0 DON’T READ
+
+Bush
+
+Q44N. Please tell me if you are very worried, fairly
+worried, not very worried or not worried at all about
+(READ EVERY ITEM AND TICK ONLY ONE)
+VW FW NVW NW DNK/DNA
+Q44NCA. That (country) will
+face energy cuts in
+the future.......................1
+2
+3
+4
+0
+Q44NB. That environmental
+problems and global warming
+will negatively affect
+the country’s development........1
+2
+3
+4
+0
+Q45NC How do you think that the problem of energy
+supply can be solved more effectively? By each country
+individually, by all countries together or by the
+richest countries in the world? Or do you think that
+there is no energy problem? (WAIT FOR ANSWER AND TICK
+ONLY ONE)
+By each country individually.....1
+By all countries together........2
+By the richest countries.........3
+There is no energy problem.......4
+DNK..............................8
+DNA..............................0
+
+DON’T READ
+
+Q46NC. Do you think the Latin American countries that
+produce energy (gas, oil, etc.), should sell to other
+Latin American countries that do not have these
+resources on special terms? Or do you think they
+should sell to all countries on the same terms? (WAIT
+FOR ANSWER AND TICK ONLY ONE)
+On special terms....................1
+To all countries on the same terms..2
+DNK................................ 8
+DNA.................................0
+
+DON’T READ
+
+Q47NC. Which of these statements is closest to your
+way of thinking? 1. (Country) should make some
+concessions for the sake of progress towards regional
+integration. 2. If (country) has to make concessions
+then it is preferable not to advance towards
+integration. (WAIT FOR ANSWER AND TICK ONLY ONE)
+Advance making concessions.................. 1
+No advance if concessions required.......... 2
+DNK/DNA......................................0
+Q48NC. Would you strongly agree, agree, disagree or
+strongly disagree with a decision to take the
+following measures in order to increase regional
+integration? (READ EACH MEASURE AND TICK ONLY ONE
+ANSWER FOR EACH STATEMENT)
+SA
+A D SD
+DNK KA
+Q48NCA.The free movement
+of citizens with no
+border controls ................ 1
+2
+3
+4
+8
+0
+Q48NCB.The elimination of import
+and export taxes ............... 1
+2
+3
+4
+8
+0
+Q48NCC.The creation of a single
+Latin American currency......... 1
+2
+3
+4
+8
+0
+Q48NCD.The creation of a single
+parliament to make shared laws...1
+2
+3
+4
+8
+0
+Q49STEL. (SHOW CARD 20) I’m going to list a number of
+foreign leaders. I want you to evaluate them on a
+scale from 0 to 10, where 0 means a very bad
+evaluation and 10 very good. Or do you not know them
+well
+enough
+to
+have
+an
+opinion?
+(READ
+EACH
+ALTERNATIVE, WAIT FOR INTERVIEWEE TO SEE CARD AND
+WRITE DOWN THE NUMBER THEY GIVE IN THE BOX)
+VERY BAD
+00
+
+01
+
+VERY GOOD
+02
+
+03
+
+04
+
+05
+
+SCORE
+Q49STEL.1 Alvaro Uribe
+Q49STEL.2 Tabaré
+
+Vázquez
+Q49STEL.3 Fidel Castro
+Q49STEL.4 Luiz Inácio
+
+Lula da Silva
+Q49STEL.5 Hugo Chávez
+Q49STEL.6 Michelle
+Bachelet
+Q49STEL.7 Evo Morales
+Q49STEL.8 Néstor
+Kirchner
+Q49STEL.9 Alan García
+Q49STEL.10 George W.
+
+06
+
+07
+
+08
+
+09
+
+10
+
+DOESN’T KNOW
+WELL ENOUGH DNK DNA
+96
+98
+97
+96
+
+98
+
+97
+
+96
+96
+
+98
+
+97
+
+98
+
+97
+
+96
+96
+
+98
+
+97
+
+98
+
+97
+
+96
+96
+
+98
+
+97
+
+98
+
+97
+
+96
+96
+
+98
+98
+
+97
+97
+
+Q49STEL.11 José Luis
+Rodríguez Zapatero
+Q49STEL.12 King Juan
+Carlos I of Spain
+Q49.N13 Rafael Correa
+
+96
+
+98
+
+97
+
+96
+
+98
+
+97
+
+96
+
+98
+
+97
+
+Q50NEL. Historically and taking everything into
+consideration, how do you evaluate the influence of
+Spain in (country) since the discovery of America?
+(READ THE ALTERNATIVES AND TICK ONLY ONE)
+Very positive ...............1
+Fairly positive .............2
+Fairly negative .............3
+Negative ....................4
+Neither negative nor positive 5 DON’T READ
+It doesn’t have influence..6
+DNK .........................8
+DNA ..........................0
+Q51STA (SHOW CARD 21) Still on economic issues, do you
+think private investment/free competition has a very
+positive, positive, negative or very negative impact
+or no impact at all on job opportunities? Or do you
+not know enough to give an opinion? (READ THE
+ALTERNATIVES AND TICK ONE ANSWER IN Q51STA) Q51NB.
+Does free competition have a very positive, positive,
+negative
+or
+very
+negative
+impact?
+(READ
+THE
+ALTERNATIVES AND TICK ONE ANSWER IN Q51NB) Q51NC Do
+international
+free
+trade
+treaties
+have
+a
+very
+positive, positive, negative or very negative impact?
+(READ THE ALTERNATIVES AND TICK ONE ANSWER IN Q51NC)
+Q51STA
+Q51NB
+Q51NC
+Very positive .................. 1
+1
+1
+Positive ....................... 2
+2
+2
+Negative ....................... 3
+3
+3
+Very negative .................. 4
+4
+4
+No impact at all ............... 5
+5
+5
+Doesn’t know enough to give
+an opinion ..................... 6
+6
+6
+DNK (DON’T READ) ............... 8
+8
+8
+DNA ............................ 0
+0
+0
+Q52ST. It is said that the State can solve our
+society’s problems because it has the resources to do
+so. Would you say that the State can solve: all the
+problems/the majority of the problems/quite a lot of
+problems/only a few problems/the state cannot solve
+any problems? (READ THE ALTERNATIVES AND TICK ONLY
+ONE)
+All the problems....................1
+The majority of problems............2
+Quite a lot of problems.............3
+Only a few problems.................4
+The State cannot solve
+any problems........................5
+DNK/DNA............................0 DON’T READ
+Q53ST. Imagine the following situation: two people of
+the same age are working as computer programmers,
+doing the same job. One of them earns more money than
+the other but works quicker and more efficiently and
+is more reliable. In your opinion, is it fair that, in
+this
+situation, one programmer gets paid more than
+the other? (WAIT FOR ANSWER AND TICK ONLY ONE)
+I consider it fair.............1
+I don’t consider it fair.......2
+DNK............................8
+DNA............................0
+
+DON’T READ
+
+Q54ST. (SHOW CARD 3) Do you strongly agree, agree,
+disagree, or strongly disagree with each of the
+following phrases that I am going to read? (READ EACH
+STATEMENT AND TICK AN ALTERNATIVE FOR EACH)
+SA
+A D SD
+DNK DNA
+Q54STA. The privatization of State
+companies has been beneficial
+for (country). .................. 1 2
+3
+4
+8
+0
+Q54STB. Only with a market
+economy can (country) become
+3
+4
+8
+0
+a developed country. ............ 1 2
+Q54STC. A market economy is
+best for (country) .............. 1 2
+3
+4
+8
+0
+Q54STD. Private enterprise is
+indispensable for the
+3
+4
+8
+0
+development of (country). ....... 1 2
+Q54N. The energy crisis is an
+opportunity to advance in
+integration ..................... 1 2
+3
+4
+8
+0
+Q55ST. From the list of activities that I am going to
+read out to you, which do you think should mostly be
+in the hands of the State and which should mostly be
+in the hands of private companies?(READ EACH ITEM AND
+TICK ONE ANSWER FOR EACH)
+STATE PRIVATE DNK
+DNA
+
+LATINOBARÓMETRO 2007 QUESTIONNAIRE
+
+5
+
+Q55A. Petrol/fuel............... 1
+Q55B. Electricity............... 1
+Q55C. Telephones................ 1
+
+2
+2
+2
+
+8
+8
+8
+
+0
+0
+0
+
+Q56N. (SHOW CARD 22) In the list of activities that
+I’m going to read to you, how much participation
+should the private sector have? Should it be totally
+in charge (1), have majority participation (2), have
+minority participation (3) or no participation(4)
+in...?(READ THE ITEMS AND TICK ONE ANSWER FOR EACH)
+TIC MAP MIP NP DNK DNA
+Q56ST.A Healthcare................ 1 2
+3
+4
+8 0
+Q56ST.B Education................. 1 2
+3
+4
+8 0
+Q56N.C Pensions................... 1 2
+3
+4
+8 0
+Q57ST. Would you say you are very satisfied (1),
+fairly satisfied (2), not very satisfied (3) or not at
+all satisfied (4) with...? Or are these services not
+available where you live? (READ THE SERVICE AND THEN
+THE ALTERNATIVES, WAIT FOR THE ANSWER AND TICK ONLY
+ONE)
+VS FS NVS DNK DNH DNA
+Q57ST.A. The healthcare to
+which you have access...........1
+2
+3
+4
+9
+0
+Q57ST.B. The education to
+which you have access.......... 1
+2
+3
+4
+9
+0
+Q57ST.C The availability of green
+areas and public spaces in
+your neighborhood............... 1
+2
+3
+4
+9
+0
+Q57ST.D Municipal services in
+general......................... 1
+2
+3
+4
+9
+0
+Q57ST.E Roads and paving........ 1
+2
+3
+4
+9
+0
+Q57ST.F Public transport........ 1
+2
+3
+4
+9
+0
+Q57ST.G Refuse collection....... 1
+2
+3
+4
+9
+0
+Q57ST.H Sewerage services....... 1
+2
+3
+4
+9
+0
+Q57N.I The pension system....... 1
+2
+3
+4
+9
+0
+Now I’m going to ask you about politics...
+Q58N. How difficult or easy do you find it to make
+your mind up about political issues? (READ EACH
+STATEMENT AND TICK ONE FOR EACH)
+Very difficult............ 1
+Difficult................. 2
+Neither difficult nor easy 3
+Easy...................... 4
+Very easy................. 5
+DNK....................... 0 DON’T READ
+Q59ST. How interested are you in politics? (READ THE
+ALTERNATIVES AND TICK ONLY ONE)
+
+Not registered.............997
+DNK........................998
+DNA........................000
+Q65N. (SHOW CARD 24) People sometimes belong to
+different kinds of groups or associations. For each
+type of group, please indicate whether you (READ EACH
+ITEM AND TICK ONE ANSWER FOR EACH)
+Belong and actively participate ......... 1
+Belong but don’t actively participate .... 2
+Used to belong but do not any more ........3
+Have never belonged........................4
+DNK/DNA....................................0 DON’TREAD
+Q65NA. A political party
+Q65NB. A trade union or business or
+professional association
+Q65NC. A church or other religious
+organization
+Q65ND. A sports, leisure or cultural group
+Q65NE. Another association
+Q66N.
+Thinking of the last national election in
+(country), how fair was it regarding the opportunities
+of the candidates and parties to campaign? (READ THE
+ALTERNATIVES AND TICK ONLY ONE ANSWER)
+Very fair .......................... 1
+Somewhat fair ...................... 2
+Neither fair nor unfair ............ 3
+Somewhat unfair .................... 4
+Very unfair ........................ 5
+Can’t choose ....................... 8 DON’T READ
+DNK/DNA ............................ 0
+Q67ST. (SHOW CARD 25) In politics, people normally
+speak of "left" and "right". On a scale where 0 is
+left and 10 is right, where would you place yourself?
+(SHOW SCALE, WAIT FOR ANSWER AND WRITE DOWN)
+LEFT
+RIGHT
+00
+
+01
+
+02
+
+03
+
+04
+
+05
+
+None...96 DNK...97 DNA...98
+
+06
+
+07
+
+09
+
+10
+
+DON’T READ
+
+Very interested............ 1
+Fairly interested.......... 2
+A little interested.........3
+Not at all interested ..... 4
+DNK................. 8 DON’T READ
+DNA............... 0
+
+Now let’s move on to public policies...
+
+Q60ST. Some people say that politics is so complicated
+that people like us often cannot understand what is
+going on. Others are of the opinion that it is not so
+complicated and that they can understand what is going
+on. Which statement is closest to your way of
+thinking? (WAIT FOR ANSWER AND TICK ONLY ONE)
+
+Very safe .............. 1
+Safe ................... 2
+Unsafe ................. 3
+Very unsafe ............ 4
+DNK .................... 8 DON’T READ
+DNA .................... 0
+
+Q68ST. Generally speaking, would you say that living
+in (country) is getting safer or less safe? (READ THE
+ALTERNATIVES AND TICK ONLY ONE ANSWER)
+
+Q69N. How often, if at all, do you worry about
+becoming a victim of violent crime? (READ THE
+ALTERNATIVES AND TICK ONLY ONE ANSWER)
+
+Politics is so complicated............... 1
+Politics is not so complicated .......... 2
+DNK...................................... 8
+DNA...................................... 0
+
+DON’T READ
+
+Q61ST. (SHOW CARD 23) How frequently do you do each of
+the following thing? Very frequently, frequently,
+almost never or never?
+VF
+Talk politics with friends....... 1
+
+08
+
+F
+
+AN
+2
+
+N
+3
+
+4
+
+DNK
+8
+
+All the time ...............
+Some of the time ...........
+Just occasionally ..........
+Never ......................
+DNK ........................
+
+1
+2
+3
+4
+0 DON’T READ
+
+DNA
+0
+
+Q62ST. (SHOW CARD 23) Now I want you to look at this
+card. I am going to read out a variety of political
+activities that people can undertake and I would like
+you to tell me, if you have ever done any of them (1),
+if you would ever do any of them (2), or if you would
+never do any of them (3). (READ EACH STATEMENT AND
+TICK ONE FOR EACH ONE)
+
+Q70N How do you consider the following things that can
+happen to a woman from a person who is not her
+partner? (READ EACH ITEM AND TICK ONE ANSWER FOR EACH)
+Flattering Offensive DNK/DNA
+Q70N.A Compliment in the ear 1
+2
+0
+Q70N.B Being rubbed against
+on purpose ................. ..1
+2
+0
+
+HD WD WND DNK/DNA
+Q62ST.A Sign a petition.............
+Q62ST.B Take part in authorized
+
+1
+
+demonstrations........................1
+Q62N.C Protest without authorization...1
+
+2
+
+3
+
+0
+
+2
+2
+
+3
+3
+
+0
+0
+
+Q63ST. Over which topics of conversation do you think
+you are most likely to quarrel with your best friend?
+(WRITE DOWN ANSWER AS GIVEN)
+
+DNK...98 DNA...00 DON’T READ
+
+Q64ST. If elections were held this Sunday, which party
+would you vote for? (OPEN-ENDED)
+
+Others.....................994
+Vote void/blank............995
+Wouldn’t vote..............996
+
+Q71ST.A. Have you, or someone in your family, been
+assaulted, attacked, or the victim of a crime in the
+last 12 months? (TICK ONE AND CONTINUE) Q71ST.B. Have
+you or someone in your family been aware of an act of
+corruption in the last 12 months? (TICK ONE AND
+CONTINUE) Q71ST.C. Do you know if any of your friends
+or someone in your family has consumed drugs in the
+last 12 months? (TICK ONE AND CONTINUE) Q71ST.D. Have
+you known somebody who has bought or sold drugs in the
+last 12 months? (TICK ONE AND CONTINUE) Q71N.E Have
+you, or someone you know, been the victim of sexual
+harassment at work? (TICK ONE)
+YES NO DNK DNA
+Q71ST.A Assaulted/attacked/
+victim of a crime ...................... 1
+2
+8
+0
+Q71ST.B Act of corruption .............. 1
+2
+8
+0
+Q71ST.C Drug consumption ............... 1
+2
+8
+0
+Q71ST.D Drug trafficking .............. 1
+2
+8
+0
+Q71ST.E Sexual harassment .............. 1
+2
+8
+0
+
+LATINOBARÓMETRO 2007 QUESTIONNAIRE
+
+6
+
+Q72ST. How much progress do you think has been made in
+reducing corruption in State institutions during the
+last two years? Do you think there has been much
+progress, some progress, little, or no progress at
+all? (READ THE ALTERNATIVES AND TICK ONLY ONE ANSWER)
+A lot.................. 1
+Some................... 2
+Little................. 3
+None................... 4
+DNK.................... 8
+DNA.................... 0
+
+DON’T READ
+
+Q73N. (SHOW CARD 26) How often has each of the
+following happened to you during the last year? (READ
+EACH STATEMENT AND TICK AN ALTERNATIVE FOR EACH)
+All the time................. 1
+Several times a week
+2
+Several times a month
+3
+Several times a year
+4
+Not very often/rarely
+5
+Never........................ 6
+Don’t work
+9
+DNK/DNA...................... 0 DON’T READ
+
+READ
+
+Q76N. The last time you had to see a doctor, which of
+the following made it difficult to obtain access to
+medical attention? (READ THE ALTERNATIVES AND TICK ALL
+THOSE MENTIONED)
+
+READ
+
+Q77N. Do you have anyone with whom you can discuss
+intimate and personal matters? (WAIT FOR ANSWER AND
+TICK ONLY ONE)
+Yes........ 1
+No......... 2
+DNK/DNA.... 0 DON’T READ
+Q78N. How often do you meet
+relatives or work colleagues?
+AND TICK ONLY ONE ANSWER)
+Never.........................
+Less than once a month........
+Once a month..................
+Several times a week..........
+Once a week ..................
+Several times a week..........
+Every day.....................
+DNK...........................
+
+socially with friends,
+(READ THE ALTERNATIVES
+1
+2
+3
+4
+5
+6
+7
+0 DON’T READ
+
+Q79N. Compared to other people
+would you say you take part
+(READ THE ALTERNATIVES AND TICK
+Much less than most.......... 1
+Less than most............... 2
+About the same............... 3
+More than most............... 4
+Much more than most.......... 5
+DNK.......................... 0
+
+3
+
+4
+
+8 0
+
+2
+
+3
+
+4
+
+8 0
+
+2
+2
+
+3
+3
+
+4
+4
+
+8 0
+8 0
+
+2
+
+3
+
+4
+
+8 0
+
+2
+
+3
+
+4
+
+2
+
+3
+
+4
+
+8 0
+
+Q81N. (SHOW CARD 28) Please imagine a staircase with
+ten steps, with the best living conditions that you
+can envisage at the top and the worst at the bottom.
+(SHOW SCALE, WAIT FOR ANSWER AND TICK AN ANSWER FOR
+EACH)
+Q81NA. Where are you?
+
+Q82N. (SHOW CARD 29) Think about the place where you
+live now. I mean the immediate neighborhood of your
+home. Do you have...? (READ EACH ITEM AND TICK AN
+ANSWER FOR EACH)
+
+Q74NA. In your opinion, what is the ideal
+age for a woman to retire permanently?
+AGE
+DNA/DNK
+(WRITE DOWN AGE)
+_____ 00
+Q74NB. In your opinion, what is the ideal age for a
+man to retire permanently? (WRITE DOWN AGE) AGE DA/DK
+_____ 00
+Q75ST. How have you managed the health problems you
+and your family have had in the last 12 months? (READ
+THE ALTERNATIVES AND TICK ONLY ONE ANSWER)
+
+Distance to the hospital..... ..... ........ 1
+Time to obtain an appointment ..... ..........2
+Time waiting in the doctor’s office ........ 3
+Cost of seeing a doctor..................... 4
+None........................................ 7DON’T
+DNK/DNA..................................... 0
+
+2
+
+Q81NB. Where are the living conditions that
+you think correspond to you?
+Q81NC. Where are the living conditions of
+your friends?
+Q81ND. Where will you be in 5 years’ time?
+
+Q73NA. I have come home from work too tired to
+do some of the household jobs which need to
+be done
+Q73NB. It has been difficult for me to fulfill
+my family responsibilities because of the
+amount of time I spend at work
+
+No difficulty in access to the
+necessary care .......................... ...1
+Some difficulty in access to the
+necessary care.............................. 2
+Many difficulties in access to the
+necessary care.............................. 3
+Couldn’t access the necessary
+care ....................................... 4
+Haven’t had health problems................. 5DON’T
+DNK/DNA..................................... 0
+
+I think it has to be ............... 1
+Q80NB. Sometimes I feel that I’m a
+failure ............................ 1
+Q80NC.I can do something about
+most problems ...................... 1
+Q80ND. I frequently feel lonely .... 1
+Q80NE.To progress, you sometimes
+have to do things that are
+not correct ........................ 1
+Q80NF. To be successful,
+connections are more important
+than effort at work ................ 1
+Q80NG. Life is so complicated that
+sometimes I feel I’m not
+going to make it ................... 1
+
+of your age, how often
+in social activities?
+ONLY ONE ANSWER)
+
+DON’T READ
+
+Q80N. (SHOW CARD 27) Now I’m going to read you some
+phrases related to problems of life in general. Please
+tell me if you strongly agree, agree, disagree or
+strongly disagree with… (READ EACH STATEMENT AND TICK
+ONE ANSWER FOR EACH)
+SA A D SD DNK DNA
+Q80NA. In general, my life is what
+
+A LOT
+
+SOME
+
+Q82NA. Trash ................. 1
+Q82NB. Air pollution ......... 1
+
+NOT SO MUCH
+
+2
+2
+
+3
+3
+
+NONE
+
+4
+4
+
+DNK
+
+0
+0
+
+Q83-89. (SHOW CARD 29) On a scale of 1 to 10, where 1
+means you are completely dissatisfied and 10 means you
+are completely satisfied, how satisfied are you with
+each of the following items? (SHOW SCALE, WAIT FOR
+ANSWER AND TICK AN ANSWER FOR EACH)
+COMPLETELY
+COMPLETELY
+DNK
+DISSATISFIED
+SATISFIED
+00 01 02 03 04 05 06 07 08 09 10
+99
+Q83N. How satisfied are you with how your
+life has turned out so far?
+Q84N. How satisfied are you with your free
+time?
+Q85N. How satisfied you are, all in all,
+with your apartment or house?
+Q86N.Taking everything into account, how
+satisfied are you with your household
+income?
+Q87N. How satisfied are you with the
+neighborhood in which you live?
+Q88N.How satisfied are you with the level of
+public safety?
+Q89N. How satisfied are you with your work?
+
+DNA
+00
+
+Q90N.(SHOW CARD 30) In all countries there are
+differences or even conflicts between different social
+groups. In your opinion, how much conflict is there
+between...?(READ EACH ITEM AND TICK AN ANSWER FOR
+EACH)
+VS
+S
+D
+NC
+DNK/DNA
+Q90A. Poor and rich people ......... 1
+2
+3
+4
+0
+Q90B. The unemployed and people
+with a job ................... 1
+2
+3
+4
+0
+Q90C. Management and workers ....... 1
+2
+3
+4
+0
+Q90D. Young people and older people 1
+2
+3
+4
+0
+Q90E. Older people and society ..... 1
+2
+3
+4
+0
+Q90F. Men and women ................ 1
+2
+3
+4
+0
+Q90G. People of different race ..... 1
+2
+3
+4
+0
+Q90H. (Nationals) and immigrants ... 1
+2
+3
+4
+0
+Q91N. Which of the following things
+(READ EACH ITEM AND TICK OLD ANSWER)
+
+do
+
+you
+
+have?
+
+An apartment or house in which the parents have
+a different room from the children...........1
+An average of one hot
+cooked meal per day..........................2
+Garden, balcony or terrace...................3
+One week of vacation travel per year.........4
+Pension plan.................................5
+A living room................................6
+A photographic or video camera...............7
+DNK/DNA......................................0DON’T
+
+READ
+
+Q92ST. Could you please tell me if you have recently
+heard about someone...? (READ EACH ITEM AND TICK AN
+ANSWER FOR EACH)
+YES NO DNK/DNA
+Q92STA. Pretending to be ill
+in order not to go to work...........1
+2
+0
+Q92STB. Managing to avoid
+paying taxes.........................1
+2
+0
+
+LATINOBARÓMETRO 2007 QUESTIONNAIRE
+Q892STC. Enjoying a benefit
+he/she was not entitled to...........1
+
+7
+2
+
+0
+
+Q93ST. (SHOW CARD 31) As far as you know or have
+heard, on a scale of 1 to 100, where 1 means "nobody"
+and 100 means "everybody", how many (nationals) pay
+all their taxes? (SHOW SCALE, WAIT FOR ANSWER AND TICK
+A NUMBER FROM 1 TO 100)
+
+Very good...............1
+Good....................2
+About average...........3
+Bad.....................4
+Very bad................5
+DNK.....................8 DON’T READ
+DNA.....................0
+SOCIO-DEMOGRAPHIC QUESTIONS
+
+100
+
+1
+DNK......101
+
+DNA.......102 None........103
+
+Q94ST. Altogether, would you say the level of taxes in
+(country) is too high, high, low or too low, or they
+are just right? (WAIT FOR ANSWER AND TICK ONLY ONE)
+Too high.................1
+High.....................2
+Low......................3
+Too low..................4
+Just right...............5
+DNK......................8 DON’T READ
+DNA......................0
+
+Q95ST. (SHOW CARD 32) For each of the following
+statements, please use this card to tell me whether
+you think they can always be justified, never be
+justified, or somewhere in between. (SHOW SCALE, WAIT
+FOR ANSWER AND TICK AN ANSWER FOR EACH)
+DNA/DNK
+Q91ST.A Someone accepting a bribe in
+00
+the course of their duties
+Q91ST.B Abortion
+00
+Q96ST. Would you say that it is very likely, fairly
+likely, fairly unlikely or totally unlikely that a
+person in (country) who has committed an illegal act
+will be caught? (WAIT FOR ANSWER AND TICK ONLY ONE)
+Very likely..............1
+Fairly likely............2
+Fairly unlikely..........3
+Totally unlikely.........4
+DNK/DNA..................0 DON’T READ
+Q97N. Thinking of the public administration in
+(country), how committed is it to serving the people?
+(READ THE ALTERNATIVES AND TICK ONLY ONE)
+Very committed............... 1
+Fairly committed ............ 2
+Not very committed........... 3
+Not at all committed......... 4
+DNK/DNA...................... 0 DON’T READ
+Q98N. (SHOW CARD 33) People can feel integrated and
+included in normal social life or feel excluded. In
+your view, how important are the following for
+integration and being included in social life? (TICK
+ALL THOSE MENTIONED)
+Not to be restricted or handicapped
+in one’s work capabilities.................. 01
+To be able to operate a computer............ 02
+To know a foreign language.................. 03
+To have a driver’s license.................. 04
+To have friends............................. 05
+To have a respectable occupation............ 06
+To live in a large city..................... 07
+To engage in voluntary activities........... 08
+To engage in political activities........... 09
+To have higher education.................... 10
+To have one’s own personal income........... 11
+To have one’s own family and children....... 12
+To have something to say.................... 13
+To do things that matter to others.......... 14
+To own a property, land or a house.......... 15
+DNK/DNA..................................... 00 DON’T
+READ
+Q99ST. In the next 12 months, do you think your
+economic situation and that of your family will be
+much better, a little better, about the same, a little
+worse or much worse than now? (WAIT FOR ANSWER AND
+TICK ONLY ONE)
+Much better.............1
+A little better.........2
+About the same..........3
+A little worse..........4
+Much worse..............5
+DNK.....................8 DON’T READ
+DNA.....................0
+Q100ST. In general, how would you describe the
+country’s present economic situation? Would you say it
+is...? (READ THE ALTERNATIVES AND TICK ONLY ONE)
+
+S1. How concerned would you say you are that you could
+be left without work or be unemployed during the next
+12 months? (READ THE ALTERNATIVES AND TICK ONLY ONE)
+Very concerned..............1
+Concerned...................2
+Not very concerned..........3
+Not at all concerned........4
+DNK/DNA.....................0 DON’T READ
+Doesn’t have work...........5 (unemployed, students,
+housewives, pensioners)
+S2. Does the salary you receive and your total family
+income allow you to cover your needs in a satisfactory
+manner? Which of the following statements describes
+your situation? (READ THE ALTERNATIVES AND TICK ONLY
+ONE)
+It’s sufficient and we can save .................1
+It’s just sufficient and we don’t have
+major problems...................................2
+It’s not sufficient and we have problems.........3
+It’s not sufficient and we have major problems...4
+DNK..............................................8
+DNA..............................................0
+S3N. Has your household been in arrears at any time
+during the past 12 months, that is, unable to pay any
+of the following on time...? (WAIT FOR ANSWER AND TICK
+ONLY ONE AND CONTINUE) Has your household run out of
+money to buy food at any time during the past 12
+months? (WAIT FOR ANSWER AND TICK ONLY ONE)
+YES
+NO
+DNK/DNA
+S3NA. Utility bills, such
+as electricity, water, gas ... 1
+2
+0
+S3NB. Food ................... 1
+2
+0
+S4. What is your religion? (WAIT FOR ANSWER AND WRITE
+DOWN AS GIVEN)
+
+DNK...98 DNA...00 DON’T READ
+S5. How would you describe yourself?
+Very devout..............1
+Devout...................2
+Not very devout..........3
+Not devout at all........4
+DNK......................8 DON’T READ
+DNA......................0
+Not applicable...........9 (Without religion)
+S6. Have you and your family ever seriously considered
+going to live abroad? (WAIT FOR ANSWER AND TICK ONLY
+ONE)
+Yes..............1
+No...............2
+DNK/DNA..........0 DON’T READ
+S7. Have you ever used email or connected to
+internet? (READ THE ALTERNATIVES, TICK ONE
+CONTINUE)
+Yes, every day..............1
+Yes, occasionally...........2
+Yes, rarely.................3
+DNK/DNA.................... 0
+
+GO
+GO
+GO
+GO
+
+TO
+TO
+TO
+TO
+
+the
+AND
+
+S7A
+S7A
+S8N
+S8N
+
+S7A.
+(ONLY
+FOR
+THOSE
+WHO
+USE
+INTERNET)
+Regardless of the place where you access
+internet, what is the most frequent use you make
+of it? (READ THE ALTERNATIVES AND TICK ONLY ONE)
+To access an email account...........1
+To look for information..............2
+For entertainment....................3
+For work.............................4
+Others...............................5
+DNK/DNA..............................0 DON’T READ
+Not applicable.......................9
+S8N. Are you a citizen of (country)? (WAIT FOR ANSWER
+AND TICK ONLY ONE)
+Yes ........ 1
+No ......... 2
+DNK/DNA .... 0 DON’T READ
+S9. Ethnic group (code by observation).
+ANSWER AND TICK ONLY ONE)) WVS V242 A2000
+
+(WAIT
+
+FOR
+
+LATINOBARÓMETRO 2007 QUESTIONNAIRE
+Asian........................ 1
+Black ....................... 2
+Indigenous................... 3
+Mestizo...................... 4
+Mulato....................... 5
+White ....................... 6
+Other race................... 7
+DNK.......................... 8 DON’T READ
+DNA.......................... 9
+S10.
+Sex of interviewee
+Male...........1
+Female.........2
+S11. What is your age?
+
+8
+”A”. Self-employed
+- Professional (doctor, lawyer,
+accountant, architect)...................1
+- Business owner.........................2
+- Farmer/fisherman.......................3
+- Self-employed, informal................4
+”B”. Salaried employee
+- Professional...........................5
+- Senior management......................6
+- Middle management .....................7
+- Other .................................8
+- Not applicable.........................9
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+S19. Do you or any member of your family have any of
+the following goods? (READ EACH ONE OF THE GOODS AND
+TICK AN ANSWER FOR EACH)
+
+(WRITE DOWN THE NUMBER OF YEARS)
+S12. Are you the person who makes the largest
+contribution to your family’s income? Are you the head
+of your household? (WAIT FOR ANSWER AND TICK ONLY ONE
+ALTERNATIVE)
+Yes.............1 (IS HEAD OF HOUSEHOLD)
+No..............2
+IF NOT HEAD OF HOUSEHOLD, REMEMBER TO ASK QUESTIONS
+S24, S25, S26A, S26B AND S27 ABOUT EDUCATION AND
+OCCUPATION OF HEAD OF HOUSEHOLD.
+S13. What is your marital status? (READ THE
+ALTERNATIVES AND TICK ONE ANSWER)
+Married/living with partner............1
+Single ................................2
+Separated/divorced/widowed…............3
+DNK/DNA.........................0 DON’T READ
+S14. At what age did you finish your education (fulltime education)? (WRITE DOWN THE AGE AS GIVEN)
+
+Didn’t study................96
+Still studying..............97
+Don’t know/don’t remember...98
+DNA..............00
+S15. What level of education do you have? What was the
+last year you completed? (INTERVIEWER, WRITE DOWN ALL
+THE PERSON SAYS AND PROMPT) What sort of technical
+school, what sort of institute, etc.? (WRITE DOWN
+YEAR)
+
+S16. What level of education did your parents receive?
+What studies did they undertake? (WRITE DOWN ANSWER AS
+GIVEN) What sort of technical school, what sort of
+institute, etc.? (WRITE DOWN YEAR) (CODIFY ACCORDING
+TO THE PARENT WITH THE HIGHEST LEVEL OF EDUCATION)
+
+NOTE: IN S15 AND S16 PLEASE WRITE DOWN THE NUMBER OF
+YEARS OF EDUCATION E.G. 1ST YEAR INSTITUTE OF HIGHER
+EDUCATION, 3RD YEAR OF ARCHITECTURE. IT IS IMPORTANT
+NOT TO PUT E.G. ARCHITECTURE/INSTITUTE OF HIGHER
+EDUCATION.
+S17A. What is your current employment situation? (READ
+THE ALTERNATIVES AND TICK ONE ANSWER. FOLLOW THE
+ARROWS FOR SUBSEQUENT QUESTIONS)
+Self-employed..........................1 GO TO S18
+Salaried employee in a State company...2 GO TO S18
+Salaried employee in a private company.3 GO TO S18
+Temporarily out of work................4 TO S17B
+Retired/pensioner......................5 TO S17B
+Don’t work/responsible for shopping
+and housework...........................6 TO S19
+Student................................7 TO S19
+S17B. (FOR THOSE WHO ANSWERED 4 OR 5 IN S13A) What
+was your previous employment situation? (WRITE DOWN
+THE ANSWER AS GIVEN AND TICK APPROPRIATELY UNDER
+“PAS”)
+_______________________________________________
+S18. (FOR THOSE WHO ANSWERED 1, 2 OR 3 IN S17A) What
+type of employment do you have? (WRITE DOWN THE ANSWER
+AS GIVEN AND TICK APPROPRIATELY UNDER “ACT” ACCORDING
+TO WHETHER THE PERSON IS A SALARIED EMPLOYEE OR SELFEMPLOYED)
+_______________________________________________
+S18 S17B
+
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+H.
+I.
+J.
+K.
+L.
+
+YES
+Color television..............1
+Refrigerator/icebox/freezer...1
+Own home......................1
+Computer......................1
+Washing machine...............1
+Fixed telephone...............1
+Mobile phone..................1
+Car...........................1
+A second or holiday home......1
+Running water.................1
+Hot running water.............1
+Sewage system.................1
+
+NO
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+
+DNA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+S20. How do you usually cover your health expenses?
+(WAIT FOR ANSWER AND WRITE DOWN ONLY ONE ALTERNATIVE)
+NOTE: ADAPT FOR EACH COUNTRY
+Private insurance..............1
+State insurance................2
+Don’t have insurance...........3
+DNK/DNA........................0 DON’T READ
+S21. In the last 12 months, would you say your
+physical health has been very good, good, about
+average, bad or very bad?
+Very good...............1
+Good....................2
+About average...........3
+Bad.....................4
+Very bad................5
+DNK/DNA.................0 DON’T READ
+S22. What is your native language? (READ THE
+ALTERNATIVES AND TICK ONLY ONE)
+S23. In which language was the interview conducted?
+(TO BE ANSWERED BY INTERVIEWER)
+S22
+S23
+Native language
+Interview language
+Spanish....................1...............1
+Portuguese.................2...............2
+Indigenous language........3...............3
+Other......................4...............4
+QUESTIONS ASKED ONLY IF THE INTERVIEWEE IS NOT HEAD OF
+HOUSEHOLD (WHEN THE INTERVIEWEE IS NOT THE LARGEST
+CONTRIBUTOR TO FAMILY INCOME). OTHERWISE THE INTERVIEW
+ENDS HERE
+S24. At what age did the head of your household finish
+his/her education (full-time education)? (WRITE DOWN
+THE AGE AS GIVEN)
+
+Didn’t study....................96
+Still studying..................97
+Don’t know/don’t remember.......98
+DNA.............................00
+Not applicable..................99
+S25. What studies did the head of your
+undertake? (WRITE DOWN ANSWER AS GIVEN)
+
+household
+
+Didn’t study................96
+Still studying..............97
+Don’t know/don’t remember...98
+Not applicable..............99
+NOTE: IN S26 PLEASE WRITE DOWN THE NUMBER OF YEARS OF
+EDUCATION E.G. 1ST YEAR INSTITUTE OF HIGHER EDUCATION,
+3RD YEAR OF ARCHITECTURE
+S26A. What is the employment situation of the head of
+your household? (READ THE ALTERNATIVES AND TICK ONE
+ANSWER. FOLLOW THE ARROWS FOR SUBSEQUENT QUESTIONS)
+Independent/self-employed ................1 TO S27
+Salaried employee in a State company......2 TO S27
+
+LATINOBARÓMETRO 2007 QUESTIONNAIRE
+Salaried employee in a private company....3 TO
+Temporarily out of work................4 TO
+Retired/pensioner......................5 TO
+Doesn’t work/responsible
+for shopping and housework.............6 TO
+Student................................7 TO
+Not applicable..........................9
+
+9
+S27
+S26B
+S26B
+
+Rather long..........................2
+No reaction as to
+length…..............................3
+
+S28
+S28
+
+Q3. Which section of questions was difficult
+or uncomfortable for you to ask? (WRITE DOWN
+THOSE YOU REMEMBER)
+
+S26B. (FOR THOSE WHO ANSWERED 4 OR 5 IN S26A) What
+was the previous employment situation of the head of
+your household? (WRITE DOWN THE ANSWER AS GIVEN AND
+TICK APPROPRIATELY UNDER “PAS”)
+___________________________________________
+S27. (FOR THOSE WHO
+type of employment
+have? (WRITE DOWN
+APPROPRIATELY UNDER
+PERSON IS A SALARIED
+
+ANSWERED 1, 2 OR 3 IN S26A) What
+does the head of your household
+THE ANSWER AS GIVEN AND TICK
+“ACT” ACCORDING TO WHETHER THE
+EMPLOYEE OR SELF-EMPLOYED)
+
+__________________________________________
+S27 S26B
+”A”. INDEPENDENT/SELF-EMPLOYED
+ACT. PAS.
+.Professional (doctor, lawyer,
+accountant, architect)................1
+1
+.Business owner......................2
+2
+.Farmer/fisherman...................3
+3
+.Self-employed, informal.............4
+4
+”B”. SALARIED EMPLOYEE
+.Professional........................5
+5
+.Senior management...................6
+6
+.Middle management ..................7
+7
+.Other...............................8
+8
+.Not applicable......................9
+9
+.DNA/no information..................0
+0
+
+DON’T READ THE FOLLOWING QUESTIONS WHICH ARE TO BE
+ANSWERED BY THE INTERVIEWER
+S28.
+ASSESSMENT OF THE INTERVIEWEE’S SOCIO-ECONOMIC
+LEVEL. Take as reference: QUALITY OF DWELLING, QUALITY
+OF FURNITURE AND THE INTERVIEWEE’S GENERAL APPEARANCE.
+Very high..................
+High.......................
+About average..............
+Low........................
+Very low...................
+
+1
+2
+3
+4
+5
+
+I DECLARE THAT THIS INTERVIEW WAS CONDUCTED
+ACCORDING TO THE INSTRUCTIONS OF THE SAMPLE
+SUPPLIED AND IS AUTHENTIC
+ADDITIONAL VOLUNTARY COMMENTS
+__________________________________________
+_________________________________________
+_________________________________
+INTERVIEWER’S SIGNATURE
+SUPERVISOR’S COMMENTS
+___________________________________________
+___________________________________________
+_____________________________
+SUPERVISOR’S SIGNATURE
+TO BE ANSWERED BY THE INTERVIEWER
+Q1. Did interviewees find any of the questions
+offensive or too intrusive or indiscrete to be
+answered? (WRITE DOWN THOSE YOU REMEMBER)
+Q_____
+
+Q_____
+
+Q_____
+
+Q_____
+
+Q_____
+
+CODE
+YES NO
+A. Economic questions.............. 1
+0
+B. Political questions...............1
+0
+C. Quest. about democracy............1
+0
+D. Quest. about international
+relations..................
+1
+0
+E. Environmental questions..........1
+0
+F. Socio-demographic questions......1
+0
+Q2. Thinking about the interview in general,
+how did the interviewees find its length?
+Very long............................1
+
+Q_____
+
+Q_____
+
+Q_____
+
+Q_____
+
+Q_____
+
+CODE
+YES
+A. Economic questions..............1
+B. Political questions.............1
+C. Quest. about democracy..........1
+D. Quest. about international
+relations
+1
+E. Environmental questions.........1
+F. Socio-demographic questions.....1
+ONLY FOR CODING. DO NOT TICK CODES
+EDUCATION SUMMARY
+REEDUC 1
+REEDUC 2
+REEDUC 3
+AGE SUMMARY
+REEDAD
+
+NO
+0
+0
+0
+0
+0
+0
+
+
